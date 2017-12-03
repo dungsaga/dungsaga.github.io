@@ -1,0 +1,322 @@
+qpdf
+
+#de-compress
+qpdf --qdf --object-streams=disable orig.pdf expanded.pdf
+
+#re-compress
+qpdf expanded.pdf orig2.pdf
+
+
+https://worditout.com/word-cloud/create
+
+
+
+
+
+
+arch doc
+
+perf report (chrome profiling)
+
+api code structure
+
+e2e test report
+
+
+
+1. unique function
+fine grained: single responsability per services, easy interface
+may contain all software layers
+self contained
+warning: microservice != nanoservice
+
+2. service oriented
+expose service enpoints as APIs
+http protocol : rest/json, GraphQL, ...
+loose coupling between microservices
+
+3. technology independance
+freedom with:
+- technology stack
+- software architecture
+
+4. microservice independance
+each service manage: his own storage space, his own database
+lifecycle independance: dev, build, test, delivery
+no common codebase
+no compilation link
+use of a service registry
+
+5. small team
+
+6. targeted deployment
+partial change without deploy everything
+a source code repo == a delivery
+targeted deployment: less risky, faster
+
+7. high avail / scalability
+high avail
+scalability
+rolling-update: update instance after instance
+need a load balancing strategy
+
+8. east testing
+isolated features: unit testing
+issue is on integrating testing
+
+9. security
+code isolation
+runtime iso
+flow control
+traceability
+
+10. log centralization
+unique point to find all the log
+
+
+
+
+
+frontend api
+BFF backend for frontend
+
+common issues of BFF:
+- requests: parallel requests to upstreams
+- manage change request: changing UI with the same endpoint
+- manage failures: which upstream failed? which response to send to client?
+- parameter natures: filter vs display option?
+
+REST limitations in BFF:
+- parallel requests: provided by framework
+- reponse has too much data not needed by client
+- flexibile response: need parameters to let client specify what needed to return
+- errors: status code for the whole response, not for a part of the response
+- parameter nature: mix parameters for filter & display option
+
+GraphQL:
+- alternative to REST
+- most implementations rely on HTTP
+- has a DSL to describe data structure
+
+
+
+
+
+
+6 golden rules of the norm
+- ordered info: specific to general
+- geo info
+- 38 chars maximum per line
+- from line 4 to 6: no punctuation, no formating
+
+libelle de la voie
+
+number: incremental or metric, +bis/tris
+type: alee, chemin, rue, avenue, boulevard
+label: titre + prenom + article + chiffre + extension + nom
+
+lieu-dit
+
+libelle d'acheminement
+
+postal code : can be shared among merged cities
+
+Cedex : Courrier d'Entreprise a Distribution EXceptionnelle
+
+
+
+
+#header-tp #logo {
+    margin-top: 12px; /* 6px */
+}
+
+#header-tp {
+    /* background-color: #4464BB; */ /* body: #f1f2f4; */
+}
+
+#menu-tp ul li a {
+    color: #e74c3c; /* #fff */
+}
+
+.title-h1 {
+    color: #2980b9;
+}
+
+
+.after-top {
+	background: #e74c3c; /* from logo: #ce1126 */
+}
+
+.breadcrumb-tp ul li.active {
+    color: #eee;/* #555 */
+}
+.breadcrumb-tp ul li+li:before {
+    color: #2980b9;
+    padding: 0 8px;
+    font-size: 20px;
+}
+.breadcrumb-tp ul a {
+    color: #fcda15;
+}
+
+
+lich su triet hoc phuong dong viet cho thanh thieu nien - kang sung-ryul
+
+the chien thu ba - valeri korovin
+tam thuc israel - alon gratch
+chung toc technion - amnon
+
+pha tan su nguy bien (asking the right questions) - M Neil Browne & Stuart M Keely
+tien khong moc tren cay (money doesn't grow on trees) - Neale Godfrey
+Giup con duong dau voi stress - Shelley Davidow
+Lam sao de con truong thanh (How to raise an adult) - Julie Lythcott-Haims
+hoc de tang cuong to chat, chu khong phai vi co to chat moi hoc - ho thi hai au
+
+Lam quen triet hoc qua biem hoa - Grady Klein & Alan Dabney
+Lam quen kinh te hoc qua biem hoa - Grady Klein & Alan Dabney
+Lam quen thong ke hoc qua biem hoa - Grady Klein & Alan Dabney
+
+Code dao ki su - Pham Huy Hoang
+Loi noi co dang tin (What everybody is saying) - Joe Navarro
+ngo nhan ve suc hut ca nhan - olivia fox cabane
+
+Thuat thuan tam ly - Nicholas Epley
+giai ma duc vong (lust in translation) - Pamela Druckerman
+
+dung viec - gian tu trung
+nghe thuat tu duy ranh mach - rolf dobelli
+thien, ac va smartphone
+lop hoc dot pha (disrupting class) - clayton Christensen 
+
+mat ma (the code book) - simon singh
+
+
+
+- php 5 or 7
+- symfony 2 or 3
+
+- parameter.yml ? password
+- composer update : out of memory --> composer install
+
+
+CI for NEM app
+-----------------
+
+- Source code is host in Nordnet git server (http://stash.dvpt.nordnet.fr:7990)
+- Bamboo is configured to build/test/deploy from git server to staging/preprod/prod environments.
+  - Tasks are managed at http://bamboo.dvpt.nordnet.fr:8085/browse/NEMAP
+
+
+
+abby ns cloudflare com
+alex ns cloudflare com
+amy ns cloudflare com
+andy ns cloudflare com
+anna ns cloudflare com
+art ns cloudflare com
+ben ns cloudflare com
+beth ns cloudflare com
+bob ns cloudflare com
+brad ns cloudflare com
+carl ns cloudflare com
+coco ns cloudflare com
+cody ns cloudflare com
+dan ns cloudflare com
+dana ns cloudflare com
+dave ns cloudflare com
+dawn ns cloudflare com
+dina ns cloudflare com
+dns2 cloudflare com
+dns3 cloudflare com
+dora ns cloudflare com
+duke ns cloudflare com
+ed ns cloudflare com
+edna ns cloudflare com
+elle ns cloudflare com
+elsa ns cloudflare com
+emma ns cloudflare com
+eric ns cloudflare com
+erin ns cloudflare com
+eva ns cloudflare com
+fay ns cloudflare com
+fred ns cloudflare com
+gabe ns cloudflare com
+gail ns cloudflare com
+gina ns cloudflare com
+greg ns cloudflare com
+hank ns cloudflare com
+hugh ns cloudflare com
+ian ns cloudflare com
+igor ns cloudflare com
+iris ns cloudflare com
+isla ns cloudflare com
+ivan ns cloudflare com
+ivy ns cloudflare com
+jack ns cloudflare com
+jake ns cloudflare com
+jay ns cloudflare com
+jean ns cloudflare com
+jeff ns cloudflare com
+jill ns cloudflare com
+jim ns cloudflare com
+josh ns cloudflare com
+kara ns cloudflare com
+kate ns cloudflare com
+kay ns cloudflare com
+ken ns cloudflare com
+kim ns cloudflare com
+kip ns cloudflare com
+lady ns cloudflare com
+lara ns cloudflare com
+leah ns cloudflare com
+lee ns cloudflare com
+lily ns cloudflare com
+lisa ns cloudflare com
+lola ns cloudflare com
+lucy ns cloudflare com
+mark ns cloudflare com
+mary ns cloudflare com
+matt ns cloudflare com
+max ns cloudflare com
+may ns cloudflare com
+nina ns cloudflare com
+noah ns cloudflare com
+norm ns cloudflare com
+ns cloudflare com
+ns1 cloudflare com
+ns2 cloudflare com
+ns3 cloudflare com
+ns4 cloudflare com
+ns5 cloudflare com
+ns6 cloudflare com
+ns7 cloudflare com
+olga ns cloudflare com
+pam ns cloudflare com
+pat ns cloudflare com
+paul ns cloudflare com
+pete ns cloudflare com
+phil ns cloudflare com
+ray ns cloudflare com
+rick ns cloudflare com
+rita ns cloudflare com
+rob ns cloudflare com
+rose ns cloudflare com
+roxy ns cloudflare com
+ruth ns cloudflare com
+sam ns cloudflare com
+sara ns cloudflare com
+seth ns cloudflare com
+sid ns cloudflare com
+sla ns cloudflare com
+sue ns cloudflare com
+theo ns cloudflare com
+tim ns cloudflare com
+todd ns cloudflare com
+tom ns cloudflare com
+uma ns cloudflare com
+vera ns cloudflare com
+walt ns cloudflare com
+will ns cloudflare com
+woz ns cloudflare com
+zara ns cloudflare com
+zoe ns cloudflare com
