@@ -1,0 +1,863 @@
+
+
+### re-frame clojure - Tìm với Google
+
+Title                                  | URL
+---------------------------------------|-----------
+Why no object models? - Google Groups | https://groups.google.com/forum/#!topic/eve-talk/85dMS5N6Yi8
+Precept: A declarative programming framework - Google Groups | https://groups.google.com/forum/#!topic/eve-talk/b-IN4pLF45A
+CoNarrative/precept: A declarative programming framework | https://github.com/CoNarrative/precept
+Precept 0.4.0-alpha | https://conarrative.github.io/precept/
+cerner/clara-rules: Forward-chaining rules in Clojure | https://github.com/cerner/clara-rules
+Clara Rules | http://www.clara-rules.org/
+Reagent: Minimalistic React for ClojureScript | https://reagent-project.github.io/
+FikesFarm Blog | http://blog.fikesfarm.com/
+Luminus - a Clojure web framework | http://www.luminusweb.net/
+(iterate think thoughts) | https://yogthos.net/index.html
+"A fairer Vue of React" - Comparing React to Vue for dynamic tabular data, part 2. | https://engineering.footballradar.com/a-fairer-vue-of-react-comparing-react-to-vue-for-dynamic-tabular-data-part-2/?utm_content=buffer0e901
+JavaScript Modularity Shaming | http://swannodette.github.io/2015/01/06/the-false-promise-of-javascript-microlibs
+Now what? - David Nolen - YouTube | https://www.youtube.com/watch?v=cH4ZJAKZHjQ
+Frameworks, Foundations, and Macchiato | https://yogthos.net/posts/2016-12-17-MacchiatoProgress.html
+Macchiato: ClojureScript Arrives on the Server | https://yogthos.net/posts/2016-11-30-Macchiato.html
+Rig Some Light | http://rigsomelight.com/
+Good Configuration Feedback is Essential | http://rigsomelight.com/2016/05/17/good-configuration-feedback-is-essential.html
+Straightforward (Live) Functional JavaScript: Building the Yome Widget | http://rigsomelight.com/2015/06/09/straightforward-live-functional-javascript-building-the-yome-widget.html
+Developing ClojureScript Live with Figwheel - ClojureWest Talk | http://rigsomelight.com/2015/05/01/developing-clojurescript-with-figwheel.html
+Devcards, Taking Interactivity to the Next Level | http://rigsomelight.com/2014/06/03/devcards-taking-interactivity-to-the-next-level.html
+Interactive Programming in ClojureScript | http://rigsomelight.com/2014/05/01/interactive-programming-flappy-bird-clojurescript.html
+Frameless Geodesic Dome | http://rigsomelight.com/2013/09/09/frameless-geodesic-dome.html
+Channel of Channels: Dots Game Refactor | http://rigsomelight.com/2013/08/22/channels-of-channels-dots-game-refactor.html
+ClojureScript Core.Async Dots Game | http://rigsomelight.com/2013/08/12/clojurescript-core-async-dots-game.html
+An Immutable Data Service | http://rigsomelight.com/2013/06/17/immutable-data-service.html
+Great Reading in Computer Science | http://rigsomelight.com/2010/12/10/great-reading-in-computer-science.html
+Great Reading for Researchers and Scholars | http://www.cs.virginia.edu/~robins/CS_readings.html
+The most important command in Ido for emacs | http://rigsomelight.com/2010/02/12/the-most-important-command-in-ido-for-emacs.html
+bhauman/lein-figwheel: Figwheel builds your ClojureScript code and hot loads it into the browser as you are coding! | https://github.com/bhauman/lein-figwheel
+Interactive Programming in ClojureScript | http://rigsomelight.com/2014/05/01/interactive-programming-flappy-bird-clojurescript.html
+Bruce Hauman - Developing ClojureScript With Figwheel - YouTube | https://www.youtube.com/watch?v=j-kj2qwJa_E
+PrecursorApp/precursor: Create mockups with real-time collaboration | https://github.com/PrecursorApp/precursor
+Precursor—fast prototyping web app, makes collaboration easy. | https://precursorapp.com/
+Cursive: The IDE for beautiful Clojure(Script) code | https://cursive-ide.com/
+Precept - Wikipedia | https://en.wikipedia.org/wiki/Precept
+A Noob's Walkthrough of a re-frame Application | http://www.multunus.com/blog/2016/02/noobs-walkthrough-re-frame-app/
+re-frame your ClojureScript applications - Shaun Mahood - YouTube | https://www.youtube.com/watch?v=cDzjlx6otCU
+Day8/re-frame: A Reagent Framework For Writing SPAs, in Clojurescript. | https://github.com/Day8/re-frame
+pedestal/pedestal-app: The Pedestal client-side application framework | https://github.com/pedestal/pedestal-app
+pedestal-docs/application-overview.md at app-snapshot · pedestal/pedestal-docs | https://github.com/pedestal/pedestal-docs/blob/app-snapshot/documentation/application-overview.md
+omcljs/om: ClojureScript interface to Facebook's React | https://github.com/omcljs/om
+Falcor: One Model Everywhere | http://netflix.github.io/falcor/
+Relay - A JavaScript framework for building data-driven React applications | https://facebook.github.io/relay/
+Datomic Pull - Datomic | http://docs.datomic.com/pull.html
+tr2011001_final_worlds.pdf | http://www.vpri.org/pdf/tr2011001_final_worlds.pdf
+paper.dvi | http://www.ccs.neu.edu/racket/pubs/icfp09-fffk.pdf
+download | http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.103.600&rep=rep1&type=pdf
+Learnable Programming | http://worrydream.com/LearnableProgramming/
+Hoplon, a ClojureScript Web Framework | http://hoplon.io/
+Get Started · hoplon/hoplon Wiki | https://github.com/hoplon/hoplon/wiki/Get-Started
+hoplon/hoplon: Hoplon web development tools and libraries. | https://github.com/hoplon/hoplon
+hoplon/javelin: Spreadsheet-like dataflow programming in ClojureScript. | https://github.com/hoplon/javelin
+hoplon/castra: HTTP remote procedure call handler for Clojure. | https://github.com/hoplon/castra
+hoplon/panoply: Full-stack Hoplon application example | https://github.com/hoplon/panoply
+hoplon/triclojure-hoplon-2016: Materials for the TriClojure Hoplon Workshop | https://github.com/hoplon/triclojure-hoplon-2016
+Datascript - Tìm với Google | https://www.google.com.vn/search?q=Datascript&oq=Datascript&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8
+tonsky/datascript: Immutable database and Datalog query engine for Clojure, ClojureScript and JS | https://github.com/tonsky/datascript
+tonsky/datascript-transit: Transit handlers for DataScript database and datoms | https://github.com/tonsky/datascript-transit
+Tips & tricks · tonsky/datascript Wiki | https://github.com/tonsky/datascript/wiki/Tips-&-tricks
+API overview · tonsky/datascript Wiki | https://github.com/tonsky/datascript/wiki/API-overview
+Homepage - Datascript | http://www.datascript.cz/en/
+A shallow dive into DataScript internals @ tonsky.me | http://tonsky.me/blog/datascript-internals/
+Chatting cats use DataScript for fun @ tonsky.me | http://tonsky.me/blog/datascript-chat/
+Another powered-by-DataScript example @ tonsky.me | http://tonsky.me/blog/acha-acha/
+re-frame clojure - Tìm với Google | https://www.google.com.vn/search?q=re-frame+clojure&ei=bYGJWfX5GoT78QXYhIboDw&start=60&sa=N&biw=1561&bih=729
+Why React & re-frame are fast in 7 Performance Hacks | https://lambdaisland.com/blog/02-02-2017-why-react-reagent-fast-7-performance-hacks
+Introduction to Clojurescript Reagent and Reframe - SkillsCast - 8th September 2015 | https://skillsmatter.com/skillscasts/6718-introduction-to-clojurescript-reagent-and-reframe
+Clojure Remote - Statecharts in the Re Frame Environment (Alan Shaw) - YouTube | https://www.youtube.com/watch?v=klqorRUPluw
+From 0 to prototype using ClojureScript, re-frame and friends: Martin Clausen - YouTube | https://www.youtube.com/watch?v=DdkwNTgtIJ0
+Using semantic-ui-react with re-frame - Open Sourcery | https://www.opensourcery.co.za/2017/02/12/using-semantic-ui-react-with-re-frame/
+Day8/re-frame-template: Leiningen template for reagent web app based on the re-frame pattern. Includes figwheel and optionally cider, doo, compjure, garden, less, re-com, and secretary. | https://github.com/Day8/re-frame-template
+re-frame Subscriptions Got Even Better | https://lambdaisland.com/blog/11-02-2017-re-frame-form-1-subscriptions
+Re-Frame: a Reagent Framework for Writing SPAs, in ClojureScript - Hacker News | https://news.ycombinator.com/item?id=13408196
+LambdaX blog - Clojure and ClojureScript remote development team | http://lambdax.io/blog/posts/2016-01-19-snake-game-part-1.html
+Re-Frame - Functional Reactive Programming With Clojurescript · Dhruv's Blog | https://dhruvp.github.io/2015/03/07/re-frame/
+Re-frame in One Hour - PurelyFunctional.tv | https://purelyfunctional.tv/lesson/re-frame-in-one-hour/
+re-frame - Clojurians Slack Log | https://clojurians-log.clojureverse.org/re-frame/2017-02-04.html
+Is there a better library than re-frame in its class? : Clojure | https://www.reddit.com/r/Clojure/comments/4i16v0/is_there_a_better_library_than_reframe_in_its/
+re-frame your ClojureScript applications « Clojure/conj 2016 | http://2016.clojure-conj.org/reframe-cljs-applications/
+How should one handle AJAX success/error responses in Clojure re-frame? - Stack Overflow | https://stackoverflow.com/questions/41569038/how-should-one-handle-ajax-success-error-responses-in-clojure-re-frame
+How to create decentralised apps with Clojurescript re-frame and Ethereum | https://medium.com/@matus.lestan/how-to-create-decentralised-apps-with-clojurescript-re-frame-and-ethereum-81de24d72ff5
+re-frame - Tim Gilbert's Blog | https://timgilbert.wordpress.com/tag/re-frame/
+ClojureScript + React Native | http://cljsrn.org/
+re-frame – 2017 - RGSoC - Teams App | https://teams.railsgirlssummerofcode.org/projects/125-re-frame
+Building a collaborative web app with ClojureScript | http://2017.euroclojure.org/building-a-collaborative-web-app/
+clojure - Implement FSM explicitly in re-frame/reagent/react? - Software Engineering Stack Exchange | https://softwareengineering.stackexchange.com/questions/302306/implement-fsm-explicitly-in-re-frame-reagent-react
+Server-Side and Client-Side Rendering Using the Same Code With Re-Frame - David Tanzer | http://www.davidtanzer.net/server_side_rendering_with_re_frame
+Using effects in re-frame | https://www.codesai.com/2016/11/using-effects-in-re-frame
+E-String | https://e-string.com/articles/building-a-single-page-app-with-clojurescript-reagent-and-friends/
+Reagent (Reframe?) on ProCloDo - Progressive (based) Clojure Dojo - Trello | https://trello.com/c/p5muHCCk/13-reagent-reframe
+Clojure - CollBox | https://clojure.org/stories/collbox
+ClojureScript: The Full Stack Meteor of 2016 - react - Meteor forums | https://forums.meteor.com/t/clojurescript-the-full-stack-meteor-of-2016/15694
+Reagent Presentational and Container Components - JunctionBox.ca | https://junctionbox.ca/2016/09/03/clojurescript-reagent-reframe.html
+9 Totally Killer ClojureScript Tips From Someone Who Just Finished Their First App | https://rafalcieslak.svbtle.com/9-tips-for-clojurescript-beginners
+Michael is Writing: Discovered re-frame. Me like. | http://michael.is/posts/2015-03-21-re-frame.html
+Combine re-frame 0.8 with datascript and posh : Virtual Earth Blog - virtual earth GmbH | https://virtual-earth.de/blogpost3-Combine-re-frame-0-8-with-datascript-and-posh
+#clojurescript - Mastodon | https://mastodon.social/tags/clojurescript
+THE PHOTON SPHERE: Lightweight i18n using re-frame | http://www.photonsphere.org/posts-output/2016-04-22-lightweight-i18n-using-re-frame/
+Garajeando: Using coeffects in re-frame | http://garajeando.blogspot.com/2016/10/coeffects-in-re-frame.html
+re-frame Archives - Carousel Apps | https://carouselapps.com/tag/re-frame/
+JWT authentication for re-frame using Auth0 | http://randomlurker.eu/clojurescript/re-frame/2017/05/22/re-frame-auth0-authentication.html
+Vallard's Blog - Clojurescript (CLJS) – ReactJS, Re-Frame, and Reagent | https://benincosa.com/?p=3594
+JUXT Blog: Advanced Martian | https://juxt.pro/blog/posts/advanced-martian.html
+The Clojure Toolbox | https://www.clojure-toolbox.com/
+Use namespaced keywords for events - Numergent | https://numergent.com/2015-12/Use-namespaced-keywords-for-events.html
+React in the Land of Parentheses | http://danieljanus.pl/talks/2016-warsawjs/
+Keechma Design Decisions - Retroaktive - Blog | http://retroaktive.me/blog/keechma-design-decisions/
+The Re-Frame Guide: Front-End Architecture in Clojure | https://svelte-hn.now.sh/item/14725114
+[Clojure] Why is this def used in the re-frame todomvc app? - CodExample | https://codexample.org/questions/572443/why-is-this-def-used-in-the-re-frame-todomvc-app.c
+Engineers.SG | https://engineers.sg/episodes/1739
+Improving and Evaluating Clojure Web Application Architecture | https://dspace.cc.tut.fi/dpub/bitstream/handle/123456789/23944/Kataja_Teperi.pdf?sequence=1
+
+
+### Antigen - Wikipedia
+
+Title                                  | URL
+---------------------------------------|-----------
+git from bottom up - Tìm với Google | https://www.google.com.vn/search?q=git+from+bottom+up&oq=git+from+bo&aqs=chrome.1.69i57j0l5.6392j0j4&sourceid=chrome&ie=UTF-8
+Git from the Bottom Up (2009) [pdf] - Hacker News | https://news.ycombinator.com/item?id=10199391
+git.from.bottom.up.pdf | http://ftp.newartisans.com/pub/git.from.bottom.up.pdf
+Build GIT - Learn GIT (P1) - Kushagra Gour- Creativity freak! | http://kushagragour.in/blog/2014/01/build-git-learn-git/
+git/git at e83c5163316f89bfbde7d9ab23ca2e25604af290 | https://github.com/git/git/tree/e83c5163316f89bfbde7d9ab23ca2e25604af290
+Git from the Bottom Up | https://jwiegley.github.io/git-from-the-bottom-up/
+Callstack Engineers | https://blog.callstack.io/
+List of Chromium Command Line Switches « Peter Beverloo | https://peter.sh/experiments/chromium-command-line-switches/
+HyperClick - Packages - Package Control | https://packagecontrol.io/packages/HyperClick
+Schutzstaffel - Wikipedia | https://en.wikipedia.org/wiki/Schutzstaffel
+Minio | https://minio.io/
+The Polyglot Developer | https://www.thepolyglotdeveloper.com/
+Programming in the 21st Century | http://prog21.dadgum.com/
+Visual Studio Code June 2017 | https://code.visualstudio.com/updates/v1_14
+ruby on rails - What is the difference Between .erb , .rhtml and .html.erb? - Stack Overflow | https://stackoverflow.com/questions/2936326/what-is-the-difference-between-erb-rhtml-and-html-erb
+android 8 - Tìm với Google | https://www.google.com.vn/search?q=android+8&oq=android+8&aqs=chrome..69i57j0j69i65l2j0l2.3263j0j4&sourceid=chrome&ie=UTF-8
+Mechanical advantage - Wikipedia | https://en.wikipedia.org/wiki/Mechanical_advantage
+Machine - Wikipedia | https://en.wikipedia.org/wiki/Machine
+Mechanism (engineering) - Wikipedia | https://en.wikipedia.org/wiki/Mechanism_(engineering)
+mechanical keyboard - Tìm với Google | https://www.google.com.vn/search?q=mechanical+keyboard&oq=mechanical+keyboard&aqs=chrome..69i57.8664j0j4&sourceid=chrome&ie=UTF-8
+nexus tablet nougat - Tìm với Google | https://www.google.com.vn/search?q=nexus+tablet+nougat&oq=nexus+tablet+nougat&aqs=chrome..69i57.7040j0j1&sourceid=chrome&ie=UTF-8
+Android 7 Nougat update overview for smartphones and tablets - AndroidPIT | https://www.androidpit.com/android-nougat-update-overview-smartphones-tablets
+OnePlus 5 review: A clear title contender | https://www.androidpit.com/oneplus-5-review
+rice fridge food poisoning - Tìm với Google | https://www.google.com.vn/search?q=rice+fridge+food+poisoning&oq=rice+fridge&aqs=chrome.3.69i57j0l5.10815j0j1&sourceid=chrome&ie=UTF-8
+How to eat leftover rice — without making yourself sick - Business Insider | http://uk.businessinsider.com/how-to-eat-leftover-rice-without-getting-sick-2017-3
+Can reheating rice cause food poisoning? - Health questions - NHS Choices | http://www.nhs.uk/chq/Pages/can-reheating-rice-cause-food-poisoning.aspx?CategoryID=51
+alphabay - Tìm với Google | https://www.google.com.vn/search?q=alphabay&oq=alphabay&aqs=chrome..69i57j0l5.3207j0j4&sourceid=chrome&ie=UTF-8
+code fight - Tìm với Google | https://www.google.com.vn/search?q=code+fight&oq=code+fight&aqs=chrome..69i57j0l2j69i60j0l2.5568j0j1&sourceid=chrome&ie=UTF-8
+Antigen - Wikipedia | https://en.wikipedia.org/wiki/Antigen
+
+
+### C2: Affordable X86-64 Servers | Hacker News
+
+Title                                  | URL
+---------------------------------------|-----------
+C2: Affordable X86-64 Servers - Hacker News | https://news.ycombinator.com/item?id=11251671
+picolisp - Tìm với Google | https://www.google.com.vn/search?q=picolisp&oq=picolisp&aqs=chrome..69i57.1574j0j4&sourceid=chrome&ie=UTF-8
+zenlisp - Tìm với Google | https://www.google.com.vn/search?q=zenlisp&oq=zenlisp&aqs=chrome..69i57.1799j0j9&sourceid=chrome&ie=UTF-8
+T3X.ORG | http://www.t3x.org/
+oaklisp - Tìm với Google | https://www.google.com.vn/search?q=oaklisp&oq=oaklisp&aqs=chrome..69i57.2111j0j9&sourceid=chrome&ie=UTF-8
+fzf - Tìm với Google | https://www.google.com.vn/search?q=fzf&oq=fzf&aqs=chrome..69i57j69i60l3.5007j0j9&sourceid=chrome&ie=UTF-8
+junegunn/fzf: A command-line fuzzy finder written in Go | https://github.com/junegunn/fzf
+Supercharge Vim with Fzf and Ripgrep – Otis Wright – Medium | https://medium.com/@crashybang/supercharge-vim-with-fzf-and-ripgrep-d4661fc853d2
+Interfaces in Go (part III) – golangspec – Medium | https://medium.com/golangspec/interfaces-in-go-part-iii-61f5e7c52fb5
+A Massive List of Free Online University Course Providers From Around The World | https://medium.freecodecamp.org/a-massive-list-of-free-online-course-providers-from-around-the-world-925766226f46
+Here are 250 Ivy League courses you can take online right now for free | https://medium.freecodecamp.org/ivy-league-free-online-courses-a0d7ae675869
+370 Free Online Programming & Computer Science Courses You Can Start This Month | https://medium.freecodecamp.org/370-free-online-programming-computer-science-courses-you-can-start-this-month-fc5b9867769e
+515 Free Online Programming & Computer Science Courses You Can Start in April | https://medium.freecodecamp.org/515-free-online-programming-computer-science-courses-you-can-start-in-april-8b0ce1817d61
+Go code is UTF-8 encoded – golangspec – Medium | https://medium.com/golangspec/go-code-is-utf-8-encoded-b24b30c24c48
+Goroutine leak – golangspec – Medium | https://medium.com/golangspec/goroutine-leak-400063aef468
+How Much Do Software Developers Make in 2017? – codeburst | https://codeburst.io/how-much-do-software-developers-make-in-2017-e6ae657966be
+100+ FREE Resources to Learn Full Stack Web Development | https://codeburst.io/100-free-resources-to-learn-full-stack-web-development-5b40e0bdf5f2
+New Developer? You should’ve learned Git yesterday. | https://codeburst.io/number-one-piece-of-advice-for-new-developers-ddd08abc8bfa
+WebAssembly & The Death of the App Store – Hacker Noon | https://hackernoon.com/webassembly-the-death-of-the-app-store-c9bc3f9557c8
+WebGL2 - Tìm với Google | https://www.google.com.vn/search?q=WebGL2&oq=WebGL2&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8
+How I Built and Deployed a WebGL Game to a New Website in 35m | https://hackernoon.com/how-i-built-and-deployed-a-webgl-game-to-a-new-website-in-35m-15b2e8339c31
+Write and Run WebAssembly in your browser with WasmFiddle! | https://hackernoon.com/write-and-run-webassembly-in-your-browser-today-77b39c92ead0
+WebGL needs a Home – Hacker Noon | https://hackernoon.com/webgl-needs-a-home-6f11fddc01df
+If CSS is so easy why does everyone suck? – Hacker Noon | https://hackernoon.com/if-css-is-so-easy-why-does-everyone-suck-e4442cc9428a
+A guide to cross-browser testing: installing all the things | https://hackernoon.com/a-guide-to-cross-browser-testing-installing-all-the-things-6e56c2bd8182
+10 React mini-patterns – Hacker Noon | https://hackernoon.com/10-react-mini-patterns-c1da92f068c5
+The 100% correct way to do CSS breakpoints – freeCodeCamp | https://medium.freecodecamp.org/the-100-correct-way-to-do-css-breakpoints-88d6a5ba1862
+10 things I learned making the fastest site in the world | https://hackernoon.com/10-things-i-learned-making-the-fastest-site-in-the-world-18a0e1cdf4a7
+What I’ve Learned Over 5 Years as a Software Developer | https://read.acloud.guru/what-ive-learned-over-5-years-as-a-software-developer-a5a8bf456b11
+Introducing Type Safety To Your JavaScript Project? Think Again | https://medium.freecodecamp.org/stop-bringing-strong-typing-to-javascript-4da0666cba6e
+Interestingly, the codebase on which I work at my new job uses Aphrodite, and I hate it, because: | https://medium.com/@jamesseanwright/interestingly-the-codebase-on-which-i-work-at-my-new-job-uses-aphrodite-and-i-hate-it-because-cf94db250ae4
+My Week at SoundCloud – Hacker Noon | https://hackernoon.com/my-week-at-soundcloud-385e25c65d33
+Are Front-End Developers Real Developers? – Hacker Noon | https://hackernoon.com/are-front-end-developers-real-developers-bb4df8fa6237
+The State Of JavaScript | http://stateofjs.com/
+State Of JavaScript - Tìm với Google | https://www.google.com.vn/search?q=State+Of+JavaScript&oq=State+Of+JavaScript&aqs=chrome..69i57j69i65j69i60&sourceid=chrome&ie=UTF-8
+Evidence of the Surprising State of JavaScript Indexing - Moz | https://moz.com/blog/evidence-of-the-surprising-state-of-javascript-indexing
+State of JavaScript 2017 - Blog - SitePen | https://www.sitepen.com/blog/2017/01/25/state-of-javascript-2017/
+junegunn/vim-plug: Minimalist Vim Plugin Manager | https://github.com/junegunn/vim-plug
+faq · junegunn/vim-plug Wiki | https://github.com/junegunn/vim-plug/wiki/faq
+Lodash Documentation | https://lodash.com/docs/4.17.4#debounce
+Debouncing and Throttling Explained Through Examples - CSS-Tricks | https://css-tricks.com/debouncing-throttling-explained-examples/
+The Difference Between Throttling and Debouncing - CSS-Tricks | https://css-tricks.com/the-difference-between-throttling-and-debouncing/
+John Resig - Learning from Twitter | https://johnresig.com/blog/learning-from-twitter/
+rxjs throttle - Tìm với Google | https://www.google.com.vn/search?q=rxjs+throttle&oq=rxjs+throttle&aqs=chrome..69i57.5327j0j4&sourceid=chrome&ie=UTF-8
+throttle · learn-rxjs | https://www.learnrxjs.io/operators/filtering/throttle.html
+cancel promise js - Tìm với Google | https://www.google.com.vn/search?q=cancel+promise+js&oq=cancel+promise+js&aqs=chrome..69i57.18647j0j4&sourceid=chrome&ie=UTF-8
+How to cancel an EMCAScript6 (vanilla JavaScript) promise chain - Stack Overflow | https://stackoverflow.com/questions/29478751/how-to-cancel-an-emcascript6-vanilla-javascript-promise-chain
+javascript - Promise - is it possible to force cancel a promise - Stack Overflow | https://stackoverflow.com/questions/30233302/promise-is-it-possible-to-force-cancel-a-promise
+How to cancel a promise in javascript? - Stack Overflow | https://stackoverflow.com/questions/41563094/how-to-cancel-a-promise-in-javascript
+javascript - Cancelling an ES6 promise - Stack Overflow | https://stackoverflow.com/questions/37823386/cancelling-an-es6-promise
+observable switchmap - Tìm với Google | https://www.google.com.vn/search?q=observable+switchmap&oq=observable+switchmap&aqs=chrome..69i57.7007j0j4&sourceid=chrome&ie=UTF-8
+switchMap · learn-rxjs | https://www.learnrxjs.io/operators/transformation/switchmap.html
+Becoming more reactive with RxJS flatMap and switchMap | https://medium.com/@w.dave.w/becoming-more-reactive-with-rxjs-flatmap-and-switchmap-ccd3fb7b67fa
+Need to Download Mac OS X Snow Leopard or Leopard? ADC Has It | http://osxdaily.com/2015/01/26/download-mac-os-x-snow-leopard-from-apple-adc/
+internet explorer 10 - Remove IE10's "clear field" X button on certain inputs? - Stack Overflow | https://stackoverflow.com/questions/14007655/remove-ie10s-clear-field-x-button-on-certain-inputs
+Premium - Get link Fshare 4share Ten lua Get link VIP Max Speed | https://linksvip.net/premium.html
+ie input focus at start - Tìm với Google | https://www.google.com.vn/search?q=ie+input+focus+at+start&oq=ie+input+focus+at+start&aqs=chrome..69i57.8087j0j4&sourceid=chrome&ie=UTF-8
+javascript - Cursor moves to the beginning of a text field - Stack Overflow | https://stackoverflow.com/questions/4254562/cursor-moves-to-the-beginning-of-a-text-field?rq=1
+javascript - IE: cursor jump to start in input - Stack Overflow | https://stackoverflow.com/questions/9262553/ie-cursor-jump-to-start-in-input
+Introducing the next generation of Skype - Skype Blogs | https://blogs.skype.com/news/2017/06/01/introducing-the-next-generation-of-skype/
+Open your classroom doors to the wonders of Skype in the Classroom | https://blogs.skype.com/skype-classroom/2017/06/05/open-classroom-doors-wonders-skype-classroom/
+Your guide to using emoticons at work (hint: avoid the heart) - Skype Blogs | https://blogs.skype.com/news/2017/07/17/your-guide-to-using-emoticons-at-work/
+YouGov - What the world thinks | https://yougov.co.uk/
+angular 2 input type number - Tìm với Google | https://www.google.com.vn/search?q=html+input+number+hide+arrow&oq=html+input+number+hide+arrow&aqs=chrome..69i57.16136j0j9&sourceid=chrome&ie=UTF-8#q=angular+2+input+type+number
+html - Angular2 - Input Field To Accept Only Numbers - Stack Overflow | https://stackoverflow.com/questions/41465542/angular2-input-field-to-accept-only-numbers
+css - How to remove the arrows from input[type="number"] in Opera - Stack Overflow | https://stackoverflow.com/questions/13107118/how-to-remove-the-arrows-from-inputtype-number-in-opera
+Turn Off Number Input Spinners - CSS-Tricks | https://css-tricks.com/snippets/css/turn-off-number-input-spinners/
+User Experience Findings: What is the best name for this GUI Element? | http://uxfindings.blogspot.com/2014/06/is-numeric-spinner-best-name-for-this.html
+js event keyCode - Tìm với Google | https://www.google.com.vn/search?q=js+event+keyCode&oq=js+event+keyCode&aqs=chrome..69i57.2223j0j4&sourceid=chrome&ie=UTF-8
+KeyboardEvent Value (keyCodes, metaKey, etc) - CSS-Tricks | https://css-tricks.com/snippets/javascript/javascript-keycodes/
+KeyboardEvent.charCode - Web APIs - MDN | https://developer.mozilla.org/en-US/docs/Web/API/KeyboardEvent/charCode
+keycodes/scripts.js at gh-pages · wesbos/keycodes | https://github.com/wesbos/keycodes/blob/gh-pages/scripts.js
+String.fromCharCode() - JavaScript - MDN | https://developer.mozilla.org/vi/docs/Web/JavaScript/Reference/Global_Objects/String/fromCharCode
+javascript - How to reverse String.fromCharCode? - Stack Overflow | https://stackoverflow.com/questions/2071602/how-to-reverse-string-fromcharcode
+
+
+### Downloads and International Filenames – IEInternals
+
+Title                                  | URL
+---------------------------------------|-----------
+Downloads and International Filenames – IEInternals | https://blogs.msdn.microsoft.com/ieinternals/2010/06/07/downloads-and-international-filenames/
+Chromium Blog: Improving extension security with out-of-process iframes | https://blog.chromium.org/2017/05/improving-extension-security-with-out.html
+Site Isolation - The Chromium Projects | http://www.chromium.org/developers/design-documents/site-isolation
+Sandbox | https://chromium.googlesource.com/chromium/src/+/master/docs/design/sandbox.md
+Multi-process Architecture - The Chromium Projects | http://www.chromium.org/developers/design-documents/multi-process-architecture
+Inter-process Communication (IPC) - The Chromium Projects | http://www.chromium.org/developers/design-documents/inter-process-communication
+Security Tips for IPC - The Chromium Projects | http://www.chromium.org/Home/chromium-security/education/security-tips-for-ipc
+Chromium Blog: A Tale of Two Pwnies (Part 1) | https://blog.chromium.org/2012/05/tale-of-two-pwnies-part-1.html
+Chromium Blog: The Modern Mobile Web: State of the Union | https://blog.chromium.org/2017/05/the-modern-mobile-web-state-of-union.html
+Latest Updates to the Credential Management API  -  Web  -  Google Developers | https://developers.google.com/web/updates/2017/06/credential-management-updates
+Leveraging the Performance Metrics that Most Affect User Experience  -  Web  -  Google Developers | https://developers.google.com/web/updates/2017/06/user-centric-performance-metrics
+Chromium Blog: So long, and thanks for all the Flash | https://blog.chromium.org/2017/07/so-long-and-thanks-for-all-flash.html
+The Web is Changing the Game - Open Web Games | https://www.openwebgames.com/#/home.html
+Chromium Blog: So long, and thanks for all the Flash | https://blog.chromium.org/2017/07/so-long-and-thanks-for-all-flash.html
+Developing critical reading skills with media literacy apps on Chromebooks | https://www.blog.google/topics/education/developing-critical-reading-skills-media-literacy-apps-chromebooks/
+The value of Google for Education in action: New Impact Portraits from US schools | https://www.blog.google/topics/education/value-google-education-action-new-impact-portraits-us-schools/
+typescript - Angular 2 HTTP "Cannot resolve all parameters for 'AppService'" - Stack Overflow | https://stackoverflow.com/questions/35370405/angular-2-http-cannot-resolve-all-parameters-for-appservice
+How to dynamically add components to NgModule in Angular 4 and @angular/cli? - Stack Overflow | https://stackoverflow.com/questions/44587938/how-to-dynamically-add-components-to-ngmodule-in-angular-4-and-angular-cli
+angular - CUSTOM_ELEMENTS_SCHEMA added to NgModule.schemas still showing Error - Stack Overflow | https://stackoverflow.com/questions/39428132/custom-elements-schema-added-to-ngmodule-schemas-still-showing-error
+Use @NgModule to Manage Dependencies in your Angular 2 Apps | https://auth0.com/blog/angular-2-ngmodules/
+Angular2 AOT compilation - "Cannot determine the module for class (... many components which are unused)" · Issue #13590 · angular/angular | https://github.com/angular/angular/issues/13590
+Can't resolve all parameters for AuthService: (AngularFire, ?, ?). · Issue #439 · angular/angularfire2 | https://github.com/angular/angularfire2/issues/439
+How to prevent name collisions in Angular providers by thoughtram | https://blog.thoughtram.io/angular/2016/05/23/opaque-tokens-in-angular-2.html
+Multi Providers in Angular by thoughtram | https://blog.thoughtram.io/angular2/2015/11/23/multi-providers-in-angular-2.html
+Visual Studio Code June 2017 | https://code.visualstudio.com/updates/v1_14
+probot/probot: a trainable robot that responds to activity on GitHub | https://github.com/probot/probot
+HUBOT - Hubot is your friendly robot sidekick. Install him in your company to dramatically improve employee efficiency. | https://hubot.github.com/
+Apps - GitHub Developer Guide | https://developer.github.com/apps/
+Monaco Editor | https://microsoft.github.io/monaco-editor/
+Code Navigation in Visual Studio Code | https://code.visualstudio.com/docs/editor/editingevolved
+Microsoft/monaco-editor: A browser based code editor | https://github.com/Microsoft/monaco-editor
+Monaco Editor Monarch | https://microsoft.github.io/monaco-editor/monarch.html
+kkos/oniguruma: regular expression library | https://github.com/kkos/oniguruma
+Microsoft/tolerant-php-parser: An early-stage PHP parser designed for IDE usage scenarios. | https://github.com/Microsoft/tolerant-php-parser
+php/php-langspec: PHP Language Specification | https://github.com/php/php-langspec
+50720267.pdf | https://www.computer.org/csdl/proceedings/afips/1968/5072/00/50720267.pdf
+tolerant-php-parser/HowItWorks.md at master · Microsoft/tolerant-php-parser | https://github.com/Microsoft/tolerant-php-parser/blob/master/docs/HowItWorks.md
+
+
+### Dracula — A dark theme for Atom, Alfred, Brackets, Emacs, iTerm, Mintty, Notepad++, Slack, Sequel Pro, Sublime Text, Telegram, Textmate, Terminal.app, Ulysses, Vim, Visual Studio Code, Wox, Xcode, and Zsh
+
+Title                                  | URL
+---------------------------------------|-----------
+Dracula — A dark theme for Atom, Alfred, Brackets, Emacs, iTerm, Mintty, Notepad++, Slack, Sequel Pro, Sublime Text, Telegram, Textmate, Terminal.app, Ulysses, Vim, Visual Studio Code, Wox, Xcode, and Zsh | https://draculatheme.com/
+Obsidian - Eclipse Color Themes | http://www.eclipsecolorthemes.org/?view=theme&id=21
+bitsrc/obsidian-syntax: Atom Theme | https://github.com/bitsrc/obsidian-syntax
+roryf/grandson-of-obsidian: A theme for Atom | https://github.com/roryf/grandson-of-obsidian
+jfromaniello/Grandson-of-Obsidian: Textmate theme inspired in Obsidian | https://github.com/jfromaniello/Grandson-of-Obsidian
+Son of Obsidian - Studio Styles | https://studiostyl.es/schemes/son-of-obsidian
+rprouse/theme-obsidian: Son of Obsidian theme for Visual Studio Code | https://github.com/rprouse/theme-obsidian
+With Sufficient Thrust, Pigs Fly Just Fine — Zenburn | http://kippura.org/zenburnpage/
+jnurmine/Zenburn: Zenburn is a low-contrast color scheme for Vim. | https://github.com/jnurmine/Zenburn
+breiter/atom-zenburn: Zenburn color scheme for Atom text editor | https://github.com/breiter/atom-zenburn
+colindean/atom-zenburn: Zenburn color scheme for Atom text editor | https://github.com/colindean/atom-zenburn
+Zenburn - Vim Awesome | http://vimawesome.com/plugin/zenburn
+vim-scripts/Zenburn: Low contrast colour scheme for low light conditions | https://github.com/vim-scripts/Zenburn
+gruvbox - Tìm với Google | https://www.google.com.vn/search?biw=1770&bih=782&q=gruvbox&oq=gruvbox&gs_l=psy-ab.3..0j0i30k1l3.1006655.1007574.0.1007793.7.7.0.0.0.0.216.631.0j3j1.4.0....0...1.1.64.psy-ab..3.4.630...0i67k1.lOVv4GKrTyc
+morhetz/gruvbox: Retro groove color scheme for Vim | https://github.com/morhetz/gruvbox
+sjl/badwolf: A Vim color scheme. | https://github.com/sjl/badwolf
+Bad Wolf / Steve Losh | http://stevelosh.com/projects/badwolf/
+nanotech/jellybeans.vim: A colorful, dark color scheme for Vim. | https://github.com/nanotech/jellybeans.vim
+caleb/gruvbox-syntax-atom | https://github.com/caleb/gruvbox-syntax-atom
+gruvbox for Sublime Text 3 | http://brianreilly.me/gruvbox/#/
+Solarized color schemes help you code longer | https://thenextweb.com/dd/2011/04/05/solarized-color-schemes-help-you-code-longer/
+"Best" background color for your editor - Stack Overflow | https://stackoverflow.com/questions/503103/best-background-color-for-your-editor
+Is Your IDE Hot or Not? | https://blog.codinghorror.com/is-your-ide-hot-or-not/
+40 Best color themes for text editors as of 2017 - Slant | https://www.slant.co/topics/358/~best-color-themes-for-text-editors
+rakr/vim-two-firewatch: A blend between duotone light and firewatch for atom | https://github.com/rakr/vim-two-firewatch
+YabataDesign/afterglow-theme: A minimal dark Theme for Sublime Text 2 and 3 | https://github.com/YabataDesign/afterglow-theme
+apathy-theme | https://atom.io/themes/apathy-theme
+shaond/vim-guru: A vim color-scheme with excellent JavaScript support. | https://github.com/shaond/vim-guru
+mashaal/wild-cherry: a fairy-tale inspired theme, with tasteful use of emojis | https://github.com/mashaal/wild-cherry
+PlasticCodeWrap • TmTheme Editor | https://tmtheme-editor.herokuapp.com/#!/editor/theme/PlasticCodeWrap
+tyrannicaltoucan/vim-deep-space: An intergalactically friendly color scheme for Vim. | https://github.com/tyrannicaltoucan/vim-deep-space
+CheerfullyDark - Packages - Package Control | https://packagecontrol.io/packages/CheerfullyDark
+whatyouhide/gotham-contrib: Ports of the Gotham colorscheme for common editors and terminal emulators. | https://github.com/whatyouhide/gotham-contrib
+raphamorim/lucario: The best flat theme for Vim, Atom, Sublime Text, Jetbrains Editors, Terminal.app, iTerm, Xcode and XTerm | https://github.com/raphamorim/lucario
+arcticicestudio/nord: An arctic, north-bluish color palette. | https://github.com/arcticicestudio/nord
+fugalh/desert.vim: desert colorscheme | https://github.com/fugalh/desert.vim
+C:\vim\vimfiles\colors\desert.vim.html | http://hans.fugal.net/vim/colors/desert.html
+Predawn A dark interface and syntax theme for Sublime Text & Atom. | http://jamiewilson.io/predawn/
+Spacegray — A Hyperminimal UI Theme for Sublime Text | http://kkga.github.io/spacegray/
+one-dark-ui | https://atom.io/themes/one-dark-ui
+Base16 | http://chriskempson.github.io/base16/
+tomasr/molokai: Molokai color scheme for Vim | https://github.com/tomasr/molokai
+dempfi/ayu: 🎨🖌 Modern Sublime Text 3 and 2 theme | https://github.com/dempfi/ayu
+equinusocio/material-theme: Material Theme, the most epic theme for Sublime Text 3 by Mattia Astorino | https://github.com/equinusocio/material-theme
+jpo/vim-railscasts-theme: A vim color scheme based on the Railscasts Textmate theme. | https://github.com/jpo/vim-railscasts-theme
+NetBeans 7 Nortway Today | http://netbeansthemes.com/netbeans-7-northway-today/
+nashamri/spacemacs-theme: Light and dark theme for spacemacs that supports GUI and terminal | https://github.com/nashamri/spacemacs-theme
+9 Best dark themes for text editors as of 2017 - Slant | https://www.slant.co/topics/7880/~dark-themes-for-text-editors
+sjrmanning/noctilux-theme: A dark colour theme for Emacs 24+ inspired by Light Table. | https://github.com/sjrmanning/noctilux-theme
+What is the best color scheme for programming? - Quora | https://www.quora.com/What-is-the-best-color-scheme-for-programming
+don9z/blackboard-theme: Port the color-theme-blackboard in emacs to it's own theming mechanism | https://github.com/don9z/blackboard-theme
+Vim color scheme: Wombat - Not Really A Blog | https://dengmao.wordpress.com/2007/01/22/vim-color-scheme-wombat/
+chriskempson/tomorrow-theme: Tomorrow Theme the precursor to Base16 Theme | https://github.com/chriskempson/tomorrow-theme
+ciaranm/inkpot: Inkpot 88/256 Colour Scheme for Vim | https://github.com/ciaranm/inkpot
+Meet the Man Behind ‘Solarized,’ the Most Important Color Scheme in Computer History - - Observer | http://observer.com/2015/02/meet-the-man-behind-solarized-the-most-important-color-scheme-in-computer-history/
+ui - Why are dark color schemes in editors so popular? - Software Engineering Stack Exchange | https://softwareengineering.stackexchange.com/questions/230115/why-are-dark-color-schemes-in-editors-so-popular
+Where are the next-next-generation editors? - Software Engineering Stack Exchange | https://softwareengineering.stackexchange.com/questions/146442/where-are-the-next-next-generation-editors?rq=1
+Death to the Space Infidels! | https://blog.codinghorror.com/death-to-the-space-infidels/
+Concrete Editor | http://concrete-editor.org/
+MPS: Language-Oriented Programming Environment and DSL Creation Tool by JetBrains | http://www.jetbrains.com/mps/
+XMLQuire: Introducing a new XML editing experience - YouTube | https://www.youtube.com/watch?v=04g76rzXlsY&feature=youtu.be
+Ask DN: What's the best Sublime Text color scheme? – Designer News | https://www.designernews.co/stories/271-ask-dn-whats-the-best-sublime-text-color-scheme
+Best Sublime Text 3 Themes of 2015 and 2016 ― Scotch | https://scotch.io/bar-talk/best-sublime-text-3-themes-of-2015-and-2016
+Top 5 Text Editor or IDE Color Schemes - Maddie Abboud | https://mabboud.net/top-5-text-editor-or-ide-color-schemes/
+
+
+### Eve Embedded in TiddlyWiki — a non-linear personal web notebook
+
+Title                                  | URL
+---------------------------------------|-----------
+Eve Embedded in TiddlyWiki — a non-linear personal web notebook | https://btheado.github.io/tweve/
+Jermolene/TiddlyWiki5: A self-contained JavaScript wiki for the browser or Node.js | https://github.com/Jermolene/TiddlyWiki5
+TiddlyWiki — a non-linear personal web notebook | http://tiddlywiki.com/
+UI ideas - Google Groups | https://groups.google.com/forum/#!topic/eve-talk/Efvjpu27Zrs
+ravichugh.github.io/sketch-n-sketch/blog/05-deuce.html | http://ravichugh.github.io/sketch-n-sketch/blog/05-deuce.html
+"Sketch-n-Sketch: Interactive SVG Programming with Direct Manipulation" by Ravi Chugh - YouTube | https://www.youtube.com/watch?v=YuGVC8VqXz0&feature=youtu.be
+"How would a Panda program computers?" by Jonas S Karlsson - YouTube | https://www.youtube.com/watch?v=q_6HFNQ24QE
+DEVCON1: Balanc3 - Triple Entry Accounting - YouTube | https://www.youtube.com/watch?v=NEYTypMoQv0
+Atomic Design: Create Design Systems, Not Pages - YouTube | https://www.youtube.com/watch?v=wcAl0VXYBGE
+SVG Beyond Mere Shapes — Nadieh Bremer - YouTube | https://www.youtube.com/watch?v=AwlA3SaChHE
+"Exotic Functional Data Structures: Hitchhiker Trees" by David Greenberg - YouTube | https://www.youtube.com/watch?v=jdn617M3-P4
+"Idealized Commit Logs: Code Simplification via Program Slicing" by Alan Shreve - YouTube | https://www.youtube.com/watch?v=dSqLt8BgbRQ
+"Modelica: Component Oriented Modeling of Physical Systems" by Michael Tiller - YouTube | https://www.youtube.com/watch?v=-mvEUuc-sWE
+A Tour of the Flutter Widget Framework - Flutter | https://flutter.io/widgets-intro/
+flutter/flutter: Flutter makes it easy and fast to build beautiful mobile apps. | https://github.com/flutter/flutter
+Some Hopes for the Near Roadmap - Google Groups | https://groups.google.com/forum/#!topic/eve-talk/zg_ylzAjXFA
+witheve/emacs-eve-mode | https://github.com/witheve/emacs-eve-mode
+Slack | https://witheve.slack.com/?redir=%2Fmessages%2FC1S9R61TK
+Frame language - Wikipedia | https://en.wikipedia.org/wiki/Frame_language
+Frame (artificial intelligence) - Wikipedia | https://en.wikipedia.org/wiki/Frame_(artificial_intelligence)
+F-logic - Wikipedia | https://en.wikipedia.org/wiki/F-logic
+Frame language - Wikipedia | https://en.wikipedia.org/wiki/Frame_language
+Logic programming - Wikipedia | https://en.wikipedia.org/wiki/Logic_programming
+Do we need specialized graph databases? Benchmarking real-time social networking applications – the morning paper | https://blog.acolyer.org/2017/07/07/do-we-need-specialized-graph-databases-benchmarking-real-time-social-networking-applications/amp/
+Do We Need Specialized Graph Databases? Benchmarking Real-Time Social Networking Applications | https://event.cwi.nl/grades/2017/12-Apaci.pdf
+Pregel: A System for Large-Scale Graph Processing - the morning paper | https://blog.acolyer.org/2015/05/26/pregel-a-system-for-large-scale-graph-processing/
+p135-malewicz.pdf | http://www.dcs.bbk.ac.uk/~dell/teaching/cc/paper/sigmod10/p135-malewicz.pdf
+PowerGraph: Distributed Graph-Parallel Computation on Natural Graphs - the morning paper | https://blog.acolyer.org/2015/05/29/powergraph-distributed-graph-parallel-computation-on-natural-graphs/
+osdi12-final-167.pdf | https://www.usenix.org/system/files/conference/osdi12/osdi12-final-167.pdf
+PHP Markdown Extra | https://michelf.ca/projects/php-markdown/extra/
+maruku/markdown_syntax.md at master · bhollis/maruku | https://github.com/bhollis/maruku/blob/master/docs/markdown_syntax.md#precode
+Unit testing - Google Groups | https://groups.google.com/forum/#!msg/eve-talk/yxQ9nLM6UGc/n7_aBM8oAgAJ
+Unit Testing in Eve.md | https://gist.github.com/joshuafcole/0b24e88e2019d8179183ea01741d8647
+balticmerchant/main.js at 4566b0e723196a0a8490173c24b3d7f83e1e78aa · frankier/balticmerchant | https://github.com/frankier/balticmerchant/blob/4566b0e723196a0a8490173c24b3d7f83e1e78aa/lib/main.js#L485
+frankier/balticmerchant: Multilingual text based trading game using Grammatical Framework and Eve | https://github.com/frankier/balticmerchant
+ThatOtherPerson/sublime-eve: Sublime Text 3 package for the Eve language | https://github.com/ThatOtherPerson/sublime-eve
+A Collective List Of APIs, Go Build Something. | http://apilist.fun/?title=&category=
+You are not your code. - Scott Hanselman | https://www.hanselman.com/blog/YouAreNotYourCode.aspx
+If you call out bad code, make sure it's bad first - naildrivin5.com - David Bryant Copeland's Website | http://naildrivin5.com/blog/2013/01/24/if-you-call-out-bad-code.html
+harthur/replace: [UNMAINTAINED] Command line search and replace utility | https://github.com/harthur/replace
+Being Ridiculed for My Open Source Project - Heather's Paragraphs | https://harthur.wordpress.com/2013/01/24/771/
+On Being A Journeyman Software Developer: I'm sorry | http://blog.coreyhaines.com/2013/01/im-sorry.html
+Your Blog is The Engine of Community - Scott Hanselman | http://www.hanselman.com/blog/YourBlogIsTheEngineOfCommunity.aspx
+Get involved in Open Source today - How to contribute a patch to a GitHub hosted Open Source project like Code 52 - Scott Hanselman | http://www.hanselman.com/blog/GetInvolvedInOpenSourceTodayHowToContributeAPatchToAGitHubHostedOpenSourceProjectLikeCode52.aspx
+Garage Sales and Garage-Sale Quality Code - Scott Hanselman | http://www.hanselman.com/blog/GarageSalesAndGarageSaleQualityCode.aspx
+markdown-it/markdown-it: Markdown parser, done right. 100% CommonMark support, extensions, syntax plugins & high speed | https://github.com/markdown-it/markdown-it
+chjj/marked: A markdown parser and compiler. Built for speed. | https://github.com/chjj/marked
+Support for GitHub Flavored Markdown · Issue #41 · evilstreak/markdown-js | https://github.com/evilstreak/markdown-js/issues/41
+
+
+### Greatest Hits – Signal v. Noise
+
+Title                                  | URL
+---------------------------------------|-----------
+visualize good - Tìm với Google | https://www.google.com.vn/search?q=visualize+good&oq=visualize+good&aqs=chrome..69i57.4663j0j4&sourceid=chrome&ie=UTF-8
+Visualize the Good and the Bad - Psychology Today | https://www.psychologytoday.com/blog/positive-psychology-in-the-classroom/201303/visualize-the-good-and-the-bad
+The 38 best tools for data visualization - Creative Bloq | http://www.creativebloq.com/design-tools/data-visualization-712402
+What Makes A Good Data Visualization? — Information is Beautiful | http://www.informationisbeautiful.net/visualizations/what-makes-a-good-data-visualization/
+How to Develop Your Visualization Skill - Litemind | https://litemind.com/how-to-develop-visualization-skill/
+5 Data Visualization Best Practices - GoodData | https://www.gooddata.com/blog/5-data-visualization-best-practices
+Visualize Good With Jonny Goldstein | http://www.visualizegood.co/
+js resize image - Tìm với Google | https://www.google.com.vn/search?q=js+resize+image&oq=js+resize+image&aqs=chrome..69i57j0l5.8824j0j1&sourceid=chrome&ie=UTF-8
+Resizing images with Javascript - Liip Blog | https://blog.liip.ch/archive/2013/05/28/resizing-images-with-javascript.html
+html5 - Resize image with javascript canvas (smoothly) - Stack Overflow | https://stackoverflow.com/questions/19262141/resize-image-with-javascript-canvas-smoothly
+javascript - How to resize images proportionally / keeping the aspect ratio? - Stack Overflow | https://stackoverflow.com/questions/3971841/how-to-resize-images-proportionally-keeping-the-aspect-ratio
+html - resize image using javascript - Stack Overflow | https://stackoverflow.com/questions/27122713/resize-image-using-javascript
+Image resizing client-side with javascript before upload to the server - Stack Overflow | https://stackoverflow.com/questions/2434458/image-resizing-client-side-with-javascript-before-upload-to-the-server
+How to develop a HTML5 Image Uploader ★ Mozilla Hacks – the Web developer blog | https://hacks.mozilla.org/2011/01/how-to-develop-a-html5-image-uploader/
+Recode - Tìm với Google | https://www.google.com.vn/search?q=Recode&oq=Recode&aqs=chrome..69i57j69i65l3&sourceid=chrome&ie=UTF-8
+Recode - Wikipedia | https://en.wikipedia.org/wiki/Recode
+REWORK: The new business book from 37signals. | https://37signals.com/rework
+37signals is now Basecamp! | http://37signals.com/
+The 37signals Manifesto (our original site from 1999) | https://37signals.com/manifesto
+Basecamp Launches (Signal vs. Noise) | https://signalvnoise.com/archives/000542.php
+Signal v. Noise | https://m.signalvnoise.com/
+Greatest Hits – Signal v. Noise | https://m.signalvnoise.com/tagged/greatest-hits
+How we structure our work and teams at Basecamp – Signal v. Noise | https://m.signalvnoise.com/how-we-set-up-our-work-cbce3d3d9cae
+Status meetings are the scourge – Signal v. Noise | https://m.signalvnoise.com/status-meetings-are-the-scourge-39f49267ca90
+Silicon Valley arrogance: “I can tell you which startups will succeed, without even knowing what… | https://m.signalvnoise.com/silicon-valley-arrogance-i-can-tell-you-which-startups-will-succeed-without-even-knowing-what-89aa8ea35d23
+I’ve never had a goal – Signal v. Noise | https://m.signalvnoise.com/ive-never-had-a-goal-c89219aedddf
+Don’t let anyone overpay you – Signal v. Noise | https://m.signalvnoise.com/bigger-prices-bigger-problems-72820249456f
+I fucking ❤ Mondays! – Signal v. Noise | https://m.signalvnoise.com/i-fucking-mondays-693c29d312e8
+Being tired isn’t a badge of honor – Signal v. Noise | https://m.signalvnoise.com/being-tired-isn-t-a-badge-of-honor-fa6d4c8cff4e
+I’m a boring programmer (and proud of it) – Signal v. Noise | https://m.signalvnoise.com/i-m-a-boring-programmer-and-proud-of-it-d4ac3dd2defe
+Why I work remotely (hint: it has nothing to do with productivity). | https://m.signalvnoise.com/why-i-work-remotely-hint-it-has-nothing-to-do-with-productivity-34ace30f74fc
+Employee benefits at Basecamp – Signal v. Noise | https://m.signalvnoise.com/employee-benefits-at-basecamp-d2d46fd06c58
+Give it five minutes – Signal v. Noise | https://m.signalvnoise.com/give-it-five-minutes-b8115d6f2361
+The day I became a millionaire – Signal v. Noise | https://m.signalvnoise.com/the-day-i-became-a-millionaire-55d7dc4d8293
+Exponential growth devours and corrupts – Signal v. Noise | https://m.signalvnoise.com/exponential-growth-devours-and-corrupts-c5562fbf131
+Unlock honest feedback with this one word – Signal v. Noise | https://m.signalvnoise.com/unlock-honest-feedback-with-this-one-word-dcaf3839e7ee
+Is group chat making you sweat? – Signal v. Noise | https://m.signalvnoise.com/is-group-chat-making-you-sweat-744659addf7d
+Why we choose profit – Signal v. Noise | https://m.signalvnoise.com/why-we-choose-profit-e511efc4dcb9
+RECONSIDER – Signal v. Noise | https://m.signalvnoise.com/reconsider-41adf356857f
+Show me a business problem and I’ll do my best to avoid it | https://m.signalvnoise.com/avoiding-not-solving-a1b37e46baaf
+Programming languages aren’t a zero sum game – Signal v. Noise | https://m.signalvnoise.com/programming-languages-arent-a-zero-sum-game-5fe811f7b76e
+Ignorance got a bad rap – Signal v. Noise | https://m.signalvnoise.com/ignorance-got-a-bad-rap-19ccaeb301af
+But can you sell water? – Signal v. Noise | https://m.signalvnoise.com/how-much-water-can-you-sell-e178a53007a2
+Enough – Signal v. Noise | https://m.signalvnoise.com/enough-1d48019c7335
+If It Ain’t Baroque, Don’t Fix It – Signal v. Noise | https://m.signalvnoise.com/if-it-aint-baroque-don-t-fix-it-b48a7a47e3b4
+Give a little, get a lot. – Signal v. Noise | https://m.signalvnoise.com/give-a-little-get-a-lot-79532f43101a
+Your struggles can inspire others – Signal v. Noise | https://m.signalvnoise.com/your-struggles-can-inspire-others-db279ea3565a
+The Why before the Why – Signal v. Noise | https://m.signalvnoise.com/the-why-before-the-why-c5492520acf0
+Work culture — important things you can learn from my salon | https://m.signalvnoise.com/work-culture-important-things-you-can-learn-from-my-salon-d8954d06e260
+Uber’s CEO is out because of pressure, not some ethical epiphany from the board | https://m.signalvnoise.com/ubers-ceo-is-out-because-of-pressure-not-some-ethical-epiphany-from-the-board-87b6ce1927ea
+Paying customers, not paying Facebook, Google, or Twitter. | https://m.signalvnoise.com/paying-customers-not-paying-facebook-google-or-twitter-6caa3c446bbd
+Know Your Company: Software to get employee feedback and create an open, honest company culture. | https://knowyourcompany.com/
+Basecamp: About our company | https://basecamp.com/about
+Amazon.com: Remote: Office Not Required (9780804137508): Jason Fried, David Heinemeier Hansson: Books | https://www.amazon.com/Remote-Office-Not-Required/dp/0804137501
+A letter from the CEO | https://basecamp.com/about/story
+Made with Basecamp | https://basecamp.com/made
+How Basecamp works, what it's like to organize your projects & teams in one place | https://basecamp.com/how-it-works
+TẠI SAO LẠI LÀ REWORK? - Dage Alfons | https://iamdage.wordpress.com/tai-sao-lai-la-rework/
+Rework - Wikipedia | https://en.wikipedia.org/wiki/Rework
+remote working - Tìm với Google | https://www.google.com.vn/search?q=remote+working&oq=remote+working&aqs=chrome..69i57j69i60j0l4.4327j0j1&sourceid=chrome&ie=UTF-8#q=remote+working&tbm=nws&start=10
+How Remote Work Is Changing And What It Means For Your Future | https://www.forbes.com/sites/williamarruda/2017/02/16/how-remote-work-is-changing-and-what-it-means-for-your-future/#4068cbfc237a
+Remote working improves productivity — but bosses aren't getting the memo - The Mandarin | http://www.themandarin.com.au/81168-remote-working-improves-productivity-bosses-arent-getting-memo/
+The Rise and Fall of Working From Home - Bloomberg | https://www.bloomberg.com/news/articles/2017-07-10/the-rise-and-fall-of-working-from-home
+Why remote work is not a perk or privilege | http://www.hcamag.com/hr-news/why-remote-work-is-not-a-perk-or-privilege-238723.aspx
+Don't Believe in Working Remotely? Here Are 2 Strategies That Changed My Mind. | https://www.entrepreneur.com/article/296884
+www.westchestermagazine.com/Blogs/914INC-Incoming/July-2017/Is-Remote-Work-a-Thing-of-the-Past/ | http://www.westchestermagazine.com/Blogs/914INC-Incoming/July-2017/Is-Remote-Work-a-Thing-of-the-Past/
+Working from home is really having a moment - Jun. 21, 2017 | http://money.cnn.com/2017/06/21/pf/jobs/working-from-home/index.html
+Remote Work Is Not About Avoiding the Commute - Bloomberg | https://www.bloomberg.com/view/articles/2017-06-29/remote-work-is-not-about-avoiding-the-commute
+Accounting News Roundup: How to Sabotage Remote Working and Mandatory Arbitration - 07.11.17 - Going Concern | http://goingconcern.com/accounting-news-remote-work-mandatory-arbitration/
+Remote Work Can Be Isolating - What Management Can Do To Help | https://www.forbes.com/sites/victorlipman/2017/06/23/remote-work-can-be-isolating-what-management-can-do-to-help/#289ab49925fb
+Stats That Will Convince Your Boss To Let You Work Remotely | https://www.forbes.com/sites/samanthaharrington/2017/06/26/stats-that-will-convince-your-boss-to-let-you-work-remotely/#4ceac17856fb
+Why Wordpress.com's Parent Doubled Down on Remote Work, as Giants Like IBM Call Employees Back - Inc.com | https://www.inc.com/kaitlyn-wang/automattic-wordpress-remote-work.html
+Remote workers in the media & marketing sector favor instant messaging for staying in touch with managers - The Drum | http://www.thedrum.com/news/2017/07/10/remote-workers-the-media-marketing-sector-favor-instant-messaging-staying-touch-with
+Millennials Aren't Working From Home … Baby Boomers Are - Acumen - OZY | http://www.ozy.com/acumen/millennials-arent-working-from-home-baby-boomers-are/79449
+
+
+### Internet Culture: What is the origin of LMAO? - Quora
+
+Title                                  | URL
+---------------------------------------|-----------
+Updated requirements for Qubes-certified hardware - Qubes OS | https://www.qubes-os.org/news/2016/07/21/new-hw-certification-for-q4/
+Introducing the Qubes Admin API - Qubes OS | https://www.qubes-os.org/news/2017/06/27/qubes-admin-api/
+Management stack - Qubes OS | https://www.qubes-os.org/doc/salt/
+SaltStack Documentation | https://docs.saltstack.com/en/latest/
+SaltStack intelligent orchestration for the software-defined data center | https://saltstack.com/
+The Qubes Project announces a decentralized bitcoin fund - Qubes OS | https://www.qubes-os.org/news/2016/07/13/qubes-distributed-fund/
+Qubes OS is on Open Collective | https://opencollective.com/qubes-os
+Security Pack - Qubes OS | https://www.qubes-os.org/security/pack/
+git set commit date - Tìm với Google | https://www.google.com.vn/search?q=git+set+commit+date&oq=git+set+commit+date&aqs=chrome..69i57j69i64.8408j0j4&sourceid=chrome&ie=UTF-8
+version control - How do I make a Git commit in the past? - Stack Overflow | https://stackoverflow.com/questions/3895453/how-do-i-make-a-git-commit-in-the-past
+394296 - Hang bug in history.pushState() - chromium - Monorail | https://bugs.chromium.org/p/chromium/issues/detail?id=394296
+Issue 2972073002: Mitigate the pushState IPC storm DoS. - Code Review | https://codereview.chromium.org/2972073002
+adblockpluschrome: changeset 1761:06ec9ec7539e | https://hg.adblockplus.org/adblockpluschrome/rev/06ec9ec7539e
+abbreviation OOO - Tìm với Google | https://www.google.com.vn/search?q=OOO&oq=OOO&aqs=chrome..69i57j69i65l3.1871j0j4&sourceid=chrome&ie=UTF-8#q=abbreviation+OOO
+Kamen Rider OOO – Wikipedia tiếng Việt | https://vi.wikipedia.org/wiki/Kamen_Rider_OOO
+ooo - Wiktionary | https://en.wiktionary.org/wiki/ooo
+xxx - Wiktionary | https://en.wiktionary.org/wiki/xxx
+xoxo - Wiktionary | https://en.wiktionary.org/wiki/xoxo#English
+88 - Wiktionary | https://en.wiktionary.org/wiki/88#English
+.OOO - Wikipedia | https://en.wikipedia.org/wiki/.OOO
+OOO - Wikipedia | https://en.wikipedia.org/wiki/OOO
+Out of Office • Spotify | https://spotify.ooo/#!/
+OOO Watches - Out Of Order Watches Damaged in Italy | http://www.outoforderwatches.com/en/
+OOO (abbreviation) definition and synonyms - Macmillan Dictionary | http://www.macmillandictionary.com/dictionary/british/ooo
+Definition of Breadcrumbing, BuzzWord from Macmillan Dictionary | http://www.macmillandictionary.com/buzzword/entries/breadcrumbing.html
+Definition of Omega Male, BuzzWord from Macmillan Dictionary | http://www.macmillandictionary.com/buzzword/entries/omega-male.html
+Judas kiss (noun) definition and synonyms - Macmillan Dictionary | http://www.macmillandictionary.com/dictionary/british/judas-kiss
+Language tip of the week: speechless - Macmillan Dictionary Blog | http://www.macmillandictionaryblog.com/language-tip-of-the-week-speechless
+manspreading - Macmillan Dictionary Blog | http://www.macmillandictionaryblog.com/manspreading
+What is a Schmuck? - Macmillan Dictionary Blog | http://www.macmillandictionaryblog.com/schmuck
+Cucks, cuckolds, cuckqueans and cuckoos - Macmillan Dictionary Blog | http://www.macmillandictionaryblog.com/cucks-cuckolds-cuckqueans-and-cuckoos
+What is Covfefe - Macmillan Dictionary Blog | http://www.macmillandictionaryblog.com/covfefe
+What does OOO stand for? | http://www.abbreviations.com/OOO
+O-O-O - Definition by AcronymFinder | http://www.acronymfinder.com/O_O_O.html
+What does OOO mean? - OOO Definition - Meaning of OOO - InternetSlang.com | https://www.internetslang.com/OOO-meaning-definition.asp
+OOO - What does OOO stand for? The Free Dictionary | http://acronyms.thefreedictionary.com/OOO
+Why is OOF an OOF and not an OOO? – You Had Me At EHLO… | https://blogs.technet.microsoft.com/exchange/2004/07/12/why-is-oof-an-oof-and-not-an-ooo/
+OOF - Tìm với Google | https://www.google.com.vn/search?q=OOF&oq=OOF&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8
+little r Big R - Tìm với Google | https://www.google.com.vn/search?q=little+r+Big+R&oq=little+r+Big+R&aqs=chrome..69i57.2943j0j4&sourceid=chrome&ie=UTF-8
+What is the origin of the term 'little 'r'' commonly used in net lingo? - Quora | https://www.quora.com/What-is-the-origin-of-the-term-little-r-commonly-used-in-net-lingo
+What is the origin of 'KK' meaning OK? - Quora | https://www.quora.com/What-is-the-origin-of-KK-meaning-OK
+What Does "kk" Mean in a Text or Online? | https://www.lifewire.com/what-is-kk-s-it-an-online-swear-word-2483390
+What Is 'PMSL'? What Does PMSL Mean? | https://www.lifewire.com/what-is-pmsl-2483492
+PMSL - Tìm với Google | https://www.google.com.vn/search?q=PMSL&oq=PMSL&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8
+PMSL - Wiktionary | https://en.wiktionary.org/wiki/PMSL
+LMAO - Wiktionary | https://en.wiktionary.org/wiki/LMAO#English
+roflcopter - Wiktionary | https://en.wiktionary.org/wiki/roflcopter#English
+piss oneself - Wiktionary | https://en.wiktionary.org/wiki/piss_oneself
+IMAO, PMSL, ROFL? Baffled! - SalonGeek | http://www.salongeek.com/threads/imao-pmsl-rofl-baffled.69032/
+Message Board Lingo - SalonGeek | http://www.salongeek.com/threads/message-board-lingo.35663/
+PMSL - Wikipedia | https://en.wikipedia.org/wiki/PMSL
+What Is 'ROFLMAO'? What Does ROFLMAO Mean? | https://www.lifewire.com/what-does-roflmao-mean-2483552
+Boisterous Laugh - Tìm với Google | https://www.google.com.vn/search?q=Boisterous+Laugh&oq=Boisterous+Laugh&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8#q=Boisterous+Laugh&start=20
+9 Ways to Laugh by Dictionary.com | http://www.dictionary.com/slideshows/laugh#chortle
+"a boisterous laugh and a wicked sense of humor..." by Greg Santos - Remembering Paul Violi | http://blog.bestamericanpoetry.com/paul_violi/2011/04/a-boisterous-laugh-and-a-wicked-sense-of-humor-by-greg-santos.html
+The science of laughing: what one's laugh says about you, our Presidents, & Mitt Romney - The Niche | https://ipscell.com/2012/08/the-science-of-laughing-what-ones-laugh-says-about-you-our-presidents-mitt-romney/
+Homeric laughter - Wiktionary | https://en.wiktionary.org/wiki/Homeric_laughter
+What does 'back to the grind' mean? What are the origins of the saying? - Quora | https://www.quora.com/What-does-back-to-the-grind-mean-What-are-the-origins-of-the-saying
+What is the origin of the term 'oracle'? How has its meaning evolved? - Quora | https://www.quora.com/What-is-the-origin-of-the-term-oracle-How-has-its-meaning-evolved
+What does 'check yourself before you wreck yourself' mean? What are the origins of this phrase? - Quora | https://www.quora.com/What-does-check-yourself-before-you-wreck-yourself-mean-What-are-the-origins-of-this-phrase
+What does it mean to 'psych yourself out'? - Quora | https://www.quora.com/What-does-it-mean-to-psych-yourself-out
+What is the origin and meaning of the phrase 'more power to you'? - Quora | https://www.quora.com/What-is-the-origin-and-meaning-of-the-phrase-more-power-to-you
+Internet Culture: What is the origin of LMAO? - Quora | https://www.quora.com/Internet-Culture-What-is-the-origin-of-LMAO
+
+
+### July 12th Day of Action for Net Neutrality | Ironistic.com
+
+Title                                  | URL
+---------------------------------------|-----------
+Mossberg: The Disappearing Computer - The Verge | https://www.theverge.com/2017/5/25/15686870/walt-mossberg-final-column-the-disappearing-computer
+The Battle for the Net: freeCodeCamp Joins the July 12 Fight for Net Neutrality | https://medium.freecodecamp.org/the-battle-for-the-net-freecodecamp-joins-the-july-12-fight-for-net-neutrality-f96539729c5d
+The future of the open internet — and our way of life — is in your hands | https://medium.freecodecamp.org/inside-the-invisible-war-for-the-open-internet-dd31a29a3f08
+Net Neutrality Violations: A Brief History - Free Press | https://www.freepress.net/blog/2017/04/25/net-neutrality-violations-brief-history
+Protests against SOPA and PIPA - Wikipedia | https://en.wikipedia.org/wiki/Protests_against_SOPA_and_PIPA
+Internet Slowdown Day - Wikipedia | https://en.wikipedia.org/wiki/Internet_Slowdown_Day
+The internet is fucked (again) > Comments | http://www.osnews.com/comments/29916
+The internet is fucked (again) - The Verge | https://www.theverge.com/2017/7/12/15715030/what-is-net-neutrality-fcc-ajit-pai-bill-rules-repealed
+The internet is fucked - The Verge | https://www.theverge.com/2014/2/25/5431382/the-internet-is-fucked
+The wrong words: how the FCC lost net neutrality and could kill the internet - The Verge | https://www.theverge.com/2014/1/15/5311948/net-neutrality-and-the-death-of-the-internet
+The FCC has a plan to save net neutrality, but no one likes it - The Verge | https://www.theverge.com/2014/2/19/5425808/fcc-chair-announces-plan-for-new-net-neutrality-rules
+Join the Day of Action for Net Neutrality on July 12th | https://www.battleforthenet.com/july12/
+Memes - Google Drive | https://drive.google.com/drive/folders/0B7iKho2OIeVzQ1NTdmxZSlItVzQ
+Fight for the Future, defending our basic rights and freedoms | https://www.fightforthefuture.org/
+Day-of Outreach Materials: July 12th Net Neutrality Day of Action - Google Drive | https://docs.google.com/document/d/10pWyOlUXYJYcglMRl9RqZICOQpX6ZQE5zgpEwvjMHCY/edit
+America’s Most Hated Companies - 24/7 Wall St. | http://247wallst.com/special-report/2017/01/10/americas-most-hated-companies-4/2/
+Comcast Is America's Most Hated Company - News & Opinion - PCMag.com | http://www.pcmag.com/news/350979/comcast-is-americas-most-hated-company
+Rural America Is Stranded in the Dial-Up Age | https://www.msn.com/en-us/money/markets/rural-america-is-stranded-in-the-dial-up-age/ar-BBCIsKZ
+The Next Generation of Wireless — “5G” — Is All Hype. - WIRED | https://www.wired.com/2016/08/the-next-generation-of-wireless-5g-is-all-hype/
+Title II hasn’t hurt network investment, according to the ISPs themselves - Ars Technica | https://arstechnica.com/information-technology/2017/05/title-ii-hasnt-hurt-network-investment-according-to-the-isps-themselves/
+Free My Phone - WSJ | https://www.wsj.com/article_email/SB119264941158362317-lMyQjAxMDE3OTIyMjYyNDI5Wj.html
+Netflix and Net Neutrality – Stratechery by Ben Thompson | https://stratechery.com/2014/netflix-net-neutrality/
+Show Notes: My nightmare is called Apple iMessage Stories - The Verge | https://www.theverge.com/2017/3/20/14988034/show-notes-my-nightmare-is-called-apple-imessage-stories
+A timeline of Netflix’s conflicting stances on net neutrality - The Verge | https://www.theverge.com/2017/3/20/14960154/netflix-net-neutrality-stances-timeline
+Netflix changes course and says it’ll ‘never outgrow the fight for net neutrality’ - The Verge | https://www.theverge.com/2017/6/15/15811192/netflix-declares-support-for-net-neutrality-after-backing-off
+FCC Chairman Weighs In on Net Neutrality Debate - Fortune.com | http://fortune.com/2017/04/27/fcc-pai-net-neutrality/
+The worst company in America - The Verge | https://www.theverge.com/2014/8/19/6004131/comcast-the-worst-company-in-america
+AT&T's Sponsored Data is bad for the internet, the economy, and you - The Verge | https://www.theverge.com/2014/1/6/5280566/att-sponsored-data-bad-for-the-internet-the-economy-and-you
+Oath isn’t just a terrible name — it’s going to be a nightmare ad-tracking machine - The Verge | https://www.theverge.com/2017/4/5/15180622/oath-aol-yahoo-verizon-ad-tracking-privacy
+Alexis Ohanian: net neutrality ‘continues to unite more Americans than divide them’ - The Verge | https://www.theverge.com/2017/7/12/15960576/alexis-ohanian-net-neutrality-day-of-action-protest
+Tech giants rally today in support of net neutrality - The Verge | https://www.theverge.com/2017/7/12/15957800/day-of-action-protest-net-neutrality
+Net neutrality day of action: everything you need to know - The Verge | https://www.theverge.com/2017/7/12/15960484/net-neutrality-day-of-action-protest
+Comcast, Verizon, and AT&T want Congress to make a net neutrality law because they will write it - The Verge | https://www.theverge.com/2017/7/12/15959932/comcast-verizon-att-net-neutrality-day-of-action
+Here’s how the internet’s net neutrality day of action unfolded - The Verge | https://www.theverge.com/2017/7/12/15958030/net-neutrality-day-of-action-internet-companies-list
+AT&T is joining tomorrow’s net neutrality protest, but it hates the FCC’s net neutrality rules - The Verge | https://www.theverge.com/2017/7/11/15953912/att-fcc-net-neutrality-rules-protest
+Facebook and Google will participate in next week’s big net neutrality protest - The Verge | https://www.theverge.com/2017/7/7/15938022/facebook-goolge-net-neutrality-protest-day-of-action-fcc
+Amazon, Reddit, the ACLU, and more set net neutrality ‘day of action’ - The Verge | https://www.theverge.com/2017/6/6/15745974/net-neutrality-day-of-action-tech-companies
+net neutrality July 12th - Tìm với Google | https://www.google.com.vn/search?q=net+neutrality+July+12th&oq=net+neutrality+July+12th&aqs=chrome..69i57j69i64l2.7167j0j4&sourceid=chrome&ie=UTF-8#q=net+neutrality+July+12th&start=60
+Largest websites on earth prepare for net neutrality day of action on July 12: Snapchat, Airbnb, Spotify, Yelp, Dropbox latest to join | https://www.fightforthefuture.org/news/2017-07-10-largest-websites-on-earth-prepare-for-net/
+Internet, Activate! Stand Up for Net Neutrality on July 12 - Electronic Frontier Foundation | https://www.eff.org/deeplinks/2017/06/internet-activate-stand-net-neutrality-july-12
+On Wednesday, July 12, Everyone Can Stand Up for Net Neutrality | http://billmoyers.com/story/wednesday-july-12-everyone-can-stand-net-neutrality/
+Today: July 12th Day of Action for net neutrality — Free Software Foundation — working together for free software | http://www.fsf.org/blogs/community/today-july-12th-day-of-action-for-net-neutrality
+Net Neutrality Day of Action is Tomorrow, July 12! - Internet Archive Blogs | https://blog.archive.org/2017/07/11/net-neutrality-day-of-action-is-tomorrow-july-12/
+Day of Action to Save Net Neutrality - Wikipedia | https://en.wikipedia.org/wiki/Day_of_Action_to_Save_Net_Neutrality
+Why the net neutrality protest matters - Technology - The Guardian | https://www.theguardian.com/technology/2017/jul/11/what-is-net-neutrality-threat-trump-administration
+Net neutrality: Why your favourite websites look a little bit different today | http://www.telegraph.co.uk/technology/2017/07/12/net-neutrality-favourite-websites-look-little-bit-different/
+Net Neutrality Supporters Plan July 12 “Day Of Action” To Block Rollback Effort - Deadline | http://deadline.com/2017/06/net-neutrality-supporters-plan-day-action-protest-fcc-rollback-1202108087/
+Net Neutrality Day of Action: What Tech Firms Are Doing - Fortune.com | http://fortune.com/2017/07/12/net-neutrality-day-of-action/
+July 12: Internet-wide Day of Action to Save Net Neutrality - The Garage | https://www.godaddy.com/garage/godaddy/july-12-internet-wide-day-action-save-net-neutrality/
+ACLU, Diverse Organizations to Participate in July 12 Net Neutrality Day of Action - American Civil Liberties Union | https://www.aclu.org/news/aclu-diverse-organizations-participate-july-12-net-neutrality-day-action
+Save Net Neutrality, July 12th, 2017 - NeoGAF | http://www.neogaf.com/forum/showthread.php?t=1404544
+What's what with the Net Neutrality Day of Action - ZDNet | http://www.zdnet.com/article/whats-what-with-the-net-neutrality-day-of-action/
+July 12th: Internet-Wide Day of Action To Save Net Neutrality - Occupy.com | http://www.occupy.com/article/july-12th-internet-wide-day-action-save-net-neutrality#sthash.FIDojxxo.N4PmGCKo.dpbs
+July 12th: Internet-wide day of action to save net neutrality - NationofChange | https://www.nationofchange.org/2017/07/11/july-12th-internet-wide-day-action-save-net-neutrality/
+Amazon, Kickstarter, Reddit, YC join ‘save net neutrality’ protest planned for July 12 - TechCrunch | https://techcrunch.com/2017/06/07/amazon-kickstarter-reddit-yc-join-save-net-neutrality-protest-planned-for-july-12/
+A Net Neutrality Protest Is Coming July 12 – Adweek | http://www.adweek.com/digital/a-net-neutrality-protest-is-coming-july-12/
+What You Need to Know About JULY 12TH: Internet-Wide Day of Action to Save NET NEUTRALITY - Mohawk Networks, LLC | https://mohawk-networks.com/need-know-july-12th-internet-wide-day-action-save-net-neutrality/
+On July 12th, Join The ‘Battle For The Net’: An Internet-Wide Day of Action to Save Net Neutrality | http://ncac.org/blog/on-july-12th-join-the-battle-for-the-net-an-internet-wide-day-of-action-to-save-net-neutrality
+Amazon’s July 12 ‘Day of Action' for Net Neutrality is Big Communist Anniversary - Breitbart | http://www.breitbart.com/california/2017/06/08/amazon-july-12-day-of-action-for-net-neutrality-is-big-communist-anniversary/
+Take Action: Net Neutrality Day of Action - The New York Public Library | https://www.nypl.org/blog/2017/07/12/net-neutrality
+Net Neutrality Under Threat – Do Something July 12! – Marin Resists | http://marinresists.org/event/net-neutrality-under-threat-do-something-july-12/
+Your Daily Digital Digest for Wednesday, July 12th, 2017 - OpenMedia | https://openmedia.org/en/your-daily-digital-digest-wednesday-july-12th-2017
+The coming battle over 'net neutrality' - BBC News | http://www.bbc.com/news/blogs-trending-40494909
+On Wednesday, July 12, everyone can stand up for net neutrality - Salon.com | http://www.salon.com/2017/07/12/on-wednesday-july-12-everyone-can-stand-up-for-net-neutrality_partner/
+Net Neutrality: What happened during the July 12 Internet-Wide Day of Action protest - PCWorld | http://www.pcworld.com/article/3207564/internet/net-neutrality-the-july-12-internet-wide-day-of-action-protest.html
+Largest Websites on Earth Prepare for Net Neutrality Day of Action on July 12: Airbnb, Spotify, Dropbox Latest to Join - Fight for the Future - Common Dreams | https://www.commondreams.org/newswire/2017/07/10/largest-websites-earth-prepare-net-neutrality-day-action-july-12-airbnb-spotify
+Amazon plans 'day of action' for Net neutrality — but not Netflix | https://www.usatoday.com/story/tech/news/2017/06/06/net-neutrality-supporters-plan-july-12-day-action/102543796/
+July 12 Day of Action to Save Net Neutrality - Advocacy, Legislation & Issues | http://www.ala.org/advocacy/july-12-day-action-save-net-neutrality
+Streamers: Consider not streaming on July 12th in support of Net Neutrality's Day of Action : Twitch | https://www.reddit.com/r/Twitch/comments/6m99d1/streamers_consider_not_streaming_on_july_12th_in/
+Defend the open internet: Tomorrow is the Internet's Net Neutrality Day of Action - Privacy Online News | https://www.privateinternetaccess.com/blog/2017/07/defend-open-internet-tomorrow-internets-net-neutrality-day-action/
+Tech companies go big and small for net neutrality protest - Jul. 12, 2017 | http://money.cnn.com/2017/07/12/technology/business/net-neutrality-protest/index.html
+Defend the Open Internet: Net Neutrality Day of Action is July 12 - Slog - The Stranger | http://www.thestranger.com/slog/2017/07/10/25279173/defend-the-open-internet-net-neutrality-day-of-action-is-july-12
+What to know about the net neutrality 'day of action' internet protest | https://phys.org/news/2017-07-net-neutrality-day-action-internet.html
+July 12th Day of Action for Net Neutrality - Ironistic.com | https://www.ironistic.com/july-12th-day-of-action-for-net-neutrality/
+
+
+### Mercury by Postlight
+
+Title                                  | URL
+---------------------------------------|-----------
+Dark Reader - Chrome Web Store | https://chrome.google.com/webstore/detail/dark-reader/eimadpbcbfnmbkopoojfekhnkhdbieeh
+CSS Filters Editor - Chrome Web Store | https://chrome.google.com/webstore/detail/css-filters-editor/jeidmdcnbpcnjmmeelolmhldaboickfn
+Night Reader - Chrome Web Store | https://chrome.google.com/webstore/detail/night-reader/oedepfdhcakemgfedefnaccnifpnljmb/related
+Color Enhancer - Chrome Web Store | https://chrome.google.com/webstore/detail/color-enhancer/ipkjmjaledkapilfdigkgfmpekpfnkih
+Mercury by Postlight | https://mercury.postlight.com/
+Postlight: Digital Product Studio | https://postlight.com/
+css filter effects - Tìm với Google | https://www.google.com.vn/search?q=css+filter+effects&oq=css+filter&aqs=chrome.4.69i57j69i65j0l4.5640j0j1&sourceid=chrome&ie=UTF-8
+filter - CSS-Tricks | https://css-tricks.com/almanac/properties/f/filter/
+Sepia (color) - Wikipedia | https://en.wikipedia.org/wiki/Sepia_(color)
+Sinopia - Wikipedia | https://en.wikipedia.org/wiki/Sinopia
+Fresco - Wikipedia | https://en.wikipedia.org/wiki/Fresco
+CSS Filter Effects | http://www.cssreflex.com/css-generators/filter/
+filter - CSS - MDN | https://developer.mozilla.org/en-US/docs/Web/CSS/filter#url()
+CSS Filters Demo | http://bennettfeely.com/filters/
+Understanding CSS Filter Effects - HTML5 Rocks | https://www.html5rocks.com/en/tutorials/filters/understanding-css/
+Eyes Above The Waves: Applying SVG Effects To HTML Content | http://robert.ocallahan.org/2008/06/applying-svg-effects-to-html-content_04.html
+Bennett Feely / Bucket / CSS Custom Filterables - Dribbble | https://dribbble.com/bennettfeely/buckets/107409-CSS-Custom-Filterables
+Schepp/CSS-Filters-Polyfill: This polyfill takes the official CSS filters syntax and translates it to the different equivalent techniques that the browsers know for those effects | https://github.com/Schepp/CSS-Filters-Polyfill
+hue rotate generator - Tìm với Google | https://www.google.com.vn/search?q=hue+rotate+generator&oq=hue+rotation&aqs=chrome.4.69i57j0l5.9224j0j1&sourceid=chrome&ie=UTF-8
+hue rotate color - Tìm với Google | https://www.google.com.vn/search?q=hue+rotate+color&oq=hue+rotate+color&aqs=chrome..69i57j0.8064j0j9&sourceid=chrome&ie=UTF-8
+css - How to calculate required hue-rotate to generate specific colour? - Stack Overflow | https://stackoverflow.com/questions/29037023/how-to-calculate-required-hue-rotate-to-generate-specific-colour
+graphics - Why doesn't hue rotation by +180deg and -180deg yield the original color? - Stack Overflow | https://stackoverflow.com/questions/19187905/why-doesnt-hue-rotation-by-180deg-and-180deg-yield-the-original-color/19325417#19325417
+filter - CSS hue-rotate from red to specific colour - Stack Overflow | https://stackoverflow.com/questions/44635383/css-hue-rotate-from-red-to-specific-colour
+hue-rotate(174deg) - Tìm với Google | https://www.google.com.vn/search?q=hue-rotate(174deg)&oq=hue-rotate(174deg)&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8
+Colorize your site tree icons! | https://ericceric.ghost.io/colorize-your-site-icons/
+stylish chrome extension - Tìm với Google | https://www.google.com.vn/search?q=stylish+chrome+extension&oq=stylish+chrome&aqs=chrome.1.69i57j0l5.19703j0j4&sourceid=chrome&ie=UTF-8
+Website Themes & Skins by Stylish - Userstyles.org | https://userstyles.org/styles/browse
+incace/NeuDark: Eye-saver modification of Stylish/Stylus interface admin/backend. | https://github.com/incace/NeuDark
+Stylish - Custom themes for any website - Chrome Web Store | https://chrome.google.com/webstore/detail/stylish-custom-themes-for/fjnbnpbmkenffdnngjfgmeleoegfcffe
+Stylist - Chrome Web Store | https://chrome.google.com/webstore/detail/stylist/pabfempgigicdjjlccdgnbmeggkbjdhd
+The problem with Stylish is the same problem with every other chrome extension. ... - Hacker News | https://news.ycombinator.com/item?id=7330335
+User stylesheet support removed in Chrome 33 - Hacker News | https://news.ycombinator.com/item?id=7329855
+Overwriting page styles · stylish-userstyles/stylish Wiki | https://github.com/stylish-userstyles/stylish/wiki/Overwriting-page-styles#recommendations
+svg filter effects - Tìm với Google | https://www.google.com.vn/search?q=svg+filter+effects&oq=svg+filter&aqs=chrome.5.69i57j0l5.6257j0j1&sourceid=chrome&ie=UTF-8
+The Art Of SVG Filters And Why It Is Awesome – Smashing Magazine | https://www.smashingmagazine.com/2015/05/why-the-svg-filter-is-awesome/
+Rethinking Responsive SVG – Smashing Magazine | https://www.smashingmagazine.com/2014/03/rethinking-responsive-svg/
+Filter Effects – SVG 1.1 (Second Edition) | https://www.w3.org/TR/SVG/filters.html
+Painting: Filling, Stroking and Marker Symbols – SVG 1.1 (Second Edition) | https://www.w3.org/TR/SVG/painting.html#ColorInterpolationFiltersProperty
+sRGB - Wikipedia | https://en.wikipedia.org/wiki/SRGB
+SVG filter effects - Wikipedia | https://en.wikipedia.org/wiki/SVG_filter_effects
+Hands On: SVG Filter Effects | https://testdrive-archive.azurewebsites.net/graphics/hands-on-css3/hands-on_svg-filter-effects.htm
+
+
+### Remembering Maryam Mirzakhani — Iranian Mathematician and Winner of Fields Medal
+
+Title                                  | URL
+---------------------------------------|-----------
+ng cli - Tìm với Google | https://www.google.com.vn/search?q=ng+cli&oq=ng+cli&aqs=chrome..69i57j69i60.2103j0j4&sourceid=chrome&ie=UTF-8
+Home · angular/angular-cli Wiki | https://github.com/angular/angular-cli/wiki
+Angular Cli | http://ngcli.github.io/
+stories 1.0 update · angular/angular-cli Wiki | https://github.com/angular/angular-cli/wiki/stories-1.0-update
+stories · angular/angular-cli Wiki | https://github.com/angular/angular-cli/wiki/stories
+valor-software/ng2-charts: Beautiful charts for Angular2 based on Chart.js | https://github.com/valor-software/ng2-charts
+Chart.js Tutorial — How To Make Gradient Line Chart | https://blog.vanila.io/chart-js-tutorial-how-to-make-gradient-line-chart-af145e5c92f9
+Top 20 Angular 2 Charts and Graphs - AngularJS 4U | https://www.angularjs4u.com/angularjs2/top-20-angular-2-charts-graphs/
+emn178/angular2-chartjs: Chart.js component for Angular2 | https://github.com/emn178/angular2-chartjs
+javascript - How implement Chart.js in Angular 2? - Stack Overflow | https://stackoverflow.com/questions/43151704/how-implement-chart-js-in-angular-2
+elf file format - Tìm với Google | https://www.google.com.vn/search?q=elf+file+format&oq=elf+file+format&aqs=chrome..69i57.4135j0j4&sourceid=chrome&ie=UTF-8
+The 101 of ELF Binaries on Linux: Understanding and Analysis - Linux Audit | https://linux-audit.com/elf-binaries-on-linux-understanding-and-analysis/
+Executable and Linkable Format - Wikipedia | https://en.wikipedia.org/wiki/Executable_and_Linkable_Format#86open
+Fat binary - Wikipedia | https://en.wikipedia.org/wiki/Fat_binary
+The ELF Object File Format: Introduction - Linux Journal | http://www.linuxjournal.com/article/1059
+pork porn - Tìm với Google | https://www.google.com.vn/search?q=pork+porn&oq=pork+porn&aqs=chrome..69i57.2151j0j1&sourceid=chrome&ie=UTF-8
+food porn - Tìm với Google | https://www.google.com.vn/search?q=food+porn&oq=food+porn&aqs=chrome..69i57.2655j0j9&sourceid=chrome&ie=UTF-8
+Support for .node_modules (hidden dir) · Issue #2890 · npm/npm | https://github.com/npm/npm/issues/2890
+Feature: customize node_modules dir name via npm settings · Issue #2734 · npm/npm | https://github.com/npm/npm/issues/2734
+The lack of multilingual affordances in modern software > Comments | http://www.osnews.com/comments/29950
+So, about this Googler’s manifesto. – Yonatan Zunger – Medium | https://medium.com/@yonatanzunger/so-about-this-googlers-manifesto-1e3773ed1788
+On work – Yonatan Zunger – Medium | https://medium.com/@yonatanzunger/on-work-bdf4ff422006
+Exclusive: Here's The Full 10-Page Anti-Diversity Screed Circulating Internally at Google [Updated] | https://gizmodo.com/exclusive-heres-the-full-10-page-anti-diversity-screed-1797564320
+Google on Anti-Diversity Manifesto: Employees Must 'Feel Safe Sharing Their Opinions' - Motherboard | https://motherboard.vice.com/amp/en_us/article/vbv54d/google-on-anti-diversity-manifesto-employees-must-feel-safe-sharing-their-opinions?utm_medium=referral&utm_campaign=amp&utm_source=motherboard.vice.com-RelayMediaAMP
+The history of “court costs” – Yonatan Zunger – Medium | https://medium.com/@yonatanzunger/the-history-of-court-costs-34a65781899b
+These 62 Websites Will Make You Incredibly Smarter – The Mission – Medium | https://medium.com/the-mission/these-62-websites-will-make-you-incredibly-smarter-7eb89f122c2e
+The Most Motivational Statement Ever in 3 Words – The Mission – Medium | https://medium.com/the-mission/the-most-motivational-statement-ever-in-3-words-84854eba5f13
+Genius Takes Time And Extraordinary Effort – The Mission – Medium | https://medium.com/the-mission/genius-takes-time-746de0ce2ec9
+We shall not let democracy die – Yonatan Zunger – Medium | https://medium.com/@yonatanzunger/we-shall-not-let-democracy-die-fbc06e336300
+Only The Rich Are Poisoned: The Preference of Others | https://medium.com/incerto/only-the-rich-are-poisoned-the-preference-of-others-c35ddf65cf68
+Something is Broken in the UK Intellectual Sphere. – INCERTO – Medium | https://medium.com/incerto/something-is-broken-in-the-uk-intellectual-sphere-7efc9a1f154a
+The Most Intolerant Wins: The Dictatorship of the Small Minority | https://medium.com/incerto/the-most-intolerant-wins-the-dictatorship-of-the-small-minority-3f1f83ce4e15
+The Intellectual Yet Idiot – INCERTO – Medium | https://medium.com/incerto/the-intellectual-yet-idiot-13211e2d0577
+What “Things Going Wrong” Can Look Like – Yonatan Zunger – Medium | https://medium.com/@yonatanzunger/what-things-going-wrong-can-look-like-400f84a0cc3a
+Yonatan Zunger - Google+ | https://plus.google.com/+YonatanZunger/posts/f8zLkALjHzW
+Trump Will Resign By The Summer — Here’s How It’s Going To Happen | https://extranewsfeed.com/trump-will-resign-by-the-summer-heres-how-it-s-going-to-happen-f8e80ee4be1e
+The Axes of American Politics – The Bigger Picture – Medium | https://medium.com/bigger-picture/the-axes-of-american-politics-e04713b28f40
+Tolerance is not a moral precept – Extra Newsfeed | https://extranewsfeed.com/tolerance-is-not-a-moral-precept-1af7007d6376
+‘The Handmaid’s Tale’ is a dystopian novel that feels way too relevant right now | https://timeline.com/handmaids-tale-dystopian-relevant-6ffbb4c839be
+The letters of this 1910s ex-prostitute tell a story of urban life for women still relevant today | https://timeline.com/maimie-papers-letters-prostitute-493cc50d5d92
+Remembering Maryam Mirzakhani — Iranian Mathematician and Winner of Fields Medal | https://amysmartgirls.com/remembering-maryam-mirzakhani-iranian-mathematician-and-winner-of-fields-medal-f4db209036fe
+
+
+### Sequel Pro
+
+Title                                  | URL
+---------------------------------------|-----------
+Pythonista for iOS | http://omz-software.com/pythonista/
+LightPaper - Probably the best text+markdown editor for your Mac | http://lightpaper.42squares.in/
+iTerm2 - macOS Terminal Replacement | https://www.iterm2.com/
+Hyper™ | https://hyper.is/
+zeit/hpm: The official plugin manager for Hyper | https://github.com/zeit/hpm
+Mintty — Cygwin Terminal emulator | https://mintty.github.io/
+X resources - ArchWiki | https://wiki.archlinux.org/index.php/x_resources
+X resources - Wikipedia | https://en.wikipedia.org/wiki/X_resources
+ConEmu - Handy Windows Terminal | http://conemu.github.io/
+Textual: IRC for macOS | https://codeux.com/textual/
+XChat: Multiplatform Chat Program | http://xchat.org/
+Sequel Pro | http://sequelpro.com/
+sequelpro/sequelpro: MySQL/MariaDB database management for macOS | https://github.com/sequelpro/sequelpro
+Nylas Mail - Nylas - The best free email app | https://www.nylas.com/nylas-mail/
+Ulysses | https://ulyssesapp.com/
+When Understanding means Rewriting | https://blog.codinghorror.com/when-understanding-means-rewriting/
+How big is your Lap, Anyway? | https://blog.codinghorror.com/how-big-is-your-lap-anyway/
+Fifty Years of Software Development | https://blog.codinghorror.com/fifty-years-of-software-development/
+What is "Modern Software Development" | https://blog.codinghorror.com/what-is-modern-software-development/
+The problem with "Low Priority" | https://blog.codinghorror.com/the-problem-with-low-priority/
+I Pity The Fool Who Doesn't Write Unit Tests | https://blog.codinghorror.com/i-pity-the-fool-who-doesnt-write-unit-tests/
+Creating Smaller Virtual Machines | https://blog.codinghorror.com/creating-smaller-virtual-machines/
+Company of Heroes | https://blog.codinghorror.com/company-of-heroes/
+On Unnecessary Namespacing | https://blog.codinghorror.com/on-unnecessary-namespacing/
+A Visit from the Metrics Maid | https://blog.codinghorror.com/a-visit-from-the-metrics-maid/
+Coding Horror - Page 15 | https://blog.codinghorror.com/page/15/
+I'm Loyal to Nothing Except the Dream | https://blog.codinghorror.com/im-loyal-to-nothing-except-the-dream/
+Hacker, Hack Thyself | https://blog.codinghorror.com/hacker-hack-thyself/
+Can Software Make You Less Racist? | https://blog.codinghorror.com/can-software-make-you-less-racist/
+The Raspberry Pi Has Revolutionized Emulation | https://blog.codinghorror.com/the-raspberry-pi-has-revolutionized-emulation/
+They Have To Be Monsters | https://blog.codinghorror.com/they-have-to-be-monsters/
+Here's The Programming Game You Never Asked For | https://blog.codinghorror.com/heres-the-programming-game-you-never-asked-for/
+Thanks For Ruining Another Game Forever, Computers | https://blog.codinghorror.com/thanks-for-ruining-another-game-forever-computers/
+We Hire the Best, Just Like Everyone Else | https://blog.codinghorror.com/we-hire-the-best-just-like-everyone-else/
+The Hugging Will Continue Until Morale Improves | https://blog.codinghorror.com/the-hugging-will-continue-until-morale-improves/
+Is Your Computer Stable? | https://blog.codinghorror.com/is-your-computer-stable/
+The Scooter Computer | https://blog.codinghorror.com/the-scooter-computer/
+Welcome to The Internet of Compromised Things | https://blog.codinghorror.com/welcome-to-the-internet-of-compromised-things/
+Doing Terrible Things To Your Code | https://blog.codinghorror.com/doing-terrible-things-to-your-code/
+What is Trolling? | https://blog.codinghorror.com/what-is-trolling/
+Your Password is Too Damn Short | https://blog.codinghorror.com/your-password-is-too-damn-short/
+Given Enough Money, All Bugs Are Shallow | https://blog.codinghorror.com/given-enough-money-all-bugs-are-shallow/
+Toward a Better Markdown Tutorial | https://blog.codinghorror.com/toward-a-better-markdown-tutorial/
+Our Programs Are Fun To Use | https://blog.codinghorror.com/our-programs-are-fun-to-use/
+The God Login | https://blog.codinghorror.com/the-god-login/
+The Evolution of eInk | https://blog.codinghorror.com/the-evolution-of-eink/
+Because Reading is Fundamental | https://blog.codinghorror.com/because-reading-is-fundamental-2/
+The Tablet Turning Point | https://blog.codinghorror.com/the-tablet-turning-point/
+What If We Could Weaponize Empathy? | https://blog.codinghorror.com/what-if-we-could-weaponize-empathy/
+Your Community Door | https://blog.codinghorror.com/your-community-door/
+Level One: The Intro Stage | https://blog.codinghorror.com/level-one-the-intro-stage/
+The "Just In Time" Theory of User Behavior | https://blog.codinghorror.com/the-just-in-time-theory/
+The Infinite Space Between Words | https://blog.codinghorror.com/the-infinite-space-between-words/
+What Can Men Do? | https://blog.codinghorror.com/what-can-men-do/
+Three Things | https://blog.codinghorror.com/three-things/
+Please Read The Comments | https://blog.codinghorror.com/please-read-the-comments/
+The Trap You Set For Yourself | https://blog.codinghorror.com/the-trap-you-set-for-yourself/
+10 Years of Coding Horror | https://blog.codinghorror.com/10-years-of-coding-horror/
+App-pocalypse Now | https://blog.codinghorror.com/app-pocalypse-now/
+Complaint-Driven Development | https://blog.codinghorror.com/complaint-driven-development/
+Why Does Windows Have Terrible Battery Life? | https://blog.codinghorror.com/why-does-windows-have-terrible-battery-life/
+You Don't Need Millions of Dollars | https://blog.codinghorror.com/you-dont-need-millions-of-dollars/
+Updating Your Utility Belt | https://blog.codinghorror.com/updating-your-utility-belt/
+The CODE Keyboard | https://blog.codinghorror.com/the-code-keyboard/
+The Rule of Three | https://blog.codinghorror.com/rule-of-three/
+So You Don't Want to be a Programmer After All | https://blog.codinghorror.com/so-you-dont-want-to-be-a-programmer-after-all/
+Why Ruby? | https://blog.codinghorror.com/why-ruby/
+Civilized Discourse Construction Kit | https://blog.codinghorror.com/civilized-discourse-construction-kit/
+The End of Ragequitting | https://blog.codinghorror.com/the-end-of-ragequitting/
+The Organism Will Do Whatever It Damn Well Pleases | https://blog.codinghorror.com/the-organism-will-do-what-it-damn-well-pleases/
+For a Bit of Colored Ribbon | https://blog.codinghorror.com/for-a-bit-of-colored-ribbon/
+Touch Laptops | https://blog.codinghorror.com/touch-laptops/
+Do You Wanna Touch | https://blog.codinghorror.com/do-you-wanna-touch/
+Judging Websites | https://blog.codinghorror.com/judging-websites/
+Todon't | https://blog.codinghorror.com/todont/
+Somebody is to Blame for This | https://blog.codinghorror.com/somebody-is-to-blame-for-this/
+Computer Crime, Then and Now | https://blog.codinghorror.com/computer-crime-then-and-now/
+Password Rules Are Bullshit | https://blog.codinghorror.com/password-rules-are-bullshit/
+How Some Rich People Are Trying to Dismantle Inequality - Observer | http://observer.com/2017/07/how-some-rich-people-are-trying-to-dismantle-inequality-tj-zlotnitsky-hamdi-ulukaya-morris-pearl-wealth/
+Blog / Steve Losh | http://stevelosh.com/blog/
+Projects / Steve Losh | http://stevelosh.com/projects/
+Links / Steve Losh | http://stevelosh.com/links/
+With Sufficient Thrust, Pigs Fly Just Fine | http://kippura.org/
+With Sufficient Thrust, Pigs Fly Just Fine — Sandboxing a PDF Reader | http://kippura.org/sandboxing.html
+netblue30/firejail: Linux namespaces and seccomp-bpf sandbox | https://github.com/netblue30/firejail
+kien/rainbow_parentheses.vim: Better Rainbow Parentheses | https://github.com/kien/rainbow_parentheses.vim
+Wox-launcher/Wox: Launcher for Windows, an alternative to Alfred and Launchy. | https://github.com/Wox-launcher/Wox
+zsh-users/antigen: The plugin manager for zsh. | https://github.com/zsh-users/antigen#motivation
+unixorn/awesome-zsh-plugins: A collection of ZSH frameworks, plugins & themes inspired by the various awesome list collections out there. | https://github.com/unixorn/awesome-zsh-plugins
+
+
+### Structure and Interpretation of Computer Programmers : Set the settings set
+
+Title                                  | URL
+---------------------------------------|-----------
+Embedding SVG XML - SVG Basics - Treehouse | https://teamtreehouse.com/library/svg-basics/svg-and-css/embedding-svg-xml
+xml - Embed SVG in SVG? - Stack Overflow | https://stackoverflow.com/questions/5451135/embed-svg-in-svg
+SVG, graphics in XML for the Web | https://www.xul.fr/en-xml-svg.php
+Using SVG - CSS-Tricks | https://css-tricks.com/using-svg/
+SVGeezy - a JS plugin for SVG fallbacks | http://benhowdle.im/svgeezy/
+A Primer to Front-end SVG Hacking – David Bushell – Web Design (UK) | https://dbushell.com/2013/02/04/a-primer-to-front-end-svg-hacking/
+Probably Don't Base64 SVG - CSS-Tricks | https://css-tricks.com/probably-dont-base64-svg/
+filamentgroup/grunticon: A mystical CSS icon solution. | https://github.com/filamentgroup/grunticon
+macos - OS X: Base64 encode via command line - Super User | https://superuser.com/questions/120796/os-x-base64-encode-via-command-line#comment280484_120815
+Base64 File Encoder | http://jpillora.com/base64-encoder/
+Better SVG Sprites With Fragment Identifiers - Broken Links | https://www.broken-links.com/2012/08/14/better-svg-sprites-with-fragment-identifiers/
+SVG Stacks | http://simurai.com/blog/2012/04/02/svg-stacks
+SVG.js - Home | http://svgjs.com/
+SVG Styling - Web Platform Team Blog | http://blogs.adobe.com/webplatform/2013/01/08/svg-styling/
+Taming the SVG Beast - Build New Games | http://buildnewgames.com/taming-the-svg-beast/
+Dealing with SVG images in mobile browsers - Adventures in WebKit land | http://kristerkari.github.io/adventures-in-webkit-land/blog/2013/03/08/dealing-with-svg-images-in-mobile-browsers/
+osnews - Tìm với Google | https://www.google.com.vn/search?q=osnews&oq=osnews&aqs=chrome..69i57j69i60l4j0.2535j0j1&sourceid=chrome&ie=UTF-8
+Structure and Interpretation of Computer Programmers : The Humpty-Dumpty Guide to OOP | http://www.sicpers.info/2014/10/the-humpty-dumpty-guide-to-oop/
+Structure and Interpretation of Computer Programmers : If Object-Oriented Programming were announced today | http://www.sicpers.info/2017/07/if-object-oriented-programming-were-announced-today/
+Structure and Interpretation of Computer Programmers : The code you wrote six months ago | http://www.sicpers.info/2013/06/the-code-you-wrote-six-months-ago/
+Structure and Interpretation of Computer Programmers : Set the settings set | http://www.sicpers.info/2014/01/set-the-settings-set/
+How to Write a Method on Vimeo | https://vimeo.com/74316116
+sicpers - Tìm với Google | https://www.google.com.vn/search?q=sicpers&oq=sicpers&aqs=chrome..69i57j69i65l2j69i60j0l2.7544j0j4&sourceid=chrome&ie=UTF-8
+Structure and Interpretation of Computer Programmers : The problem with not-Apple | http://www.sicpers.info/2017/01/the-problem-with-not-apple/
+Structure and Interpretation of Computer Programmers : …and in the end there will be the command line. | http://www.sicpers.info/2015/01/and-in-the-end-there-will-be-the-command-line/
+rxjs forkJoin - Tìm với Google | https://www.google.com.vn/search?q=rxjs+forkJoin&oq=rxjs+forkJoin&aqs=chrome..69i57j0l5.6454j0j4&sourceid=chrome&ie=UTF-8#q=rxjs+forkJoin&start=10
+forkJoin · learn-rxjs | https://www.learnrxjs.io/operators/combination/forkjoin.html
+angular - Observable.forkJoin and array argument - Stack Overflow | https://stackoverflow.com/questions/35676451/observable-forkjoin-and-array-argument
+rxjs5 - Rxjs: Observable.combineLatest vs Observable.forkJoin - Stack Overflow | https://stackoverflow.com/questions/41797439/rxjs-observable-combinelatest-vs-observable-forkjoin
+Combining multiple RxJs streams in Angular | http://www.syntaxsuccess.com/viewarticle/combining-multiple-rxjs-streams-in-angular-2.0
+ReactiveX - Zip operator | http://reactivex.io/documentation/operators/zip.html
+Angular Multiple HTTP Requests with RxJS | https://coryrylan.com/blog/angular-multiple-http-requests-with-rxjs
+Combining multiple Http streams with RxJS Observables in Angular2 – Daniele Ghidoli | http://blog.danieleghidoli.it/2016/10/22/http-rxjs-observables-angular/
+RxJS Observable – forkJoin with nested observables - Dreamsocket | http://dreamsocket.com/2016/08/17/rxjs-observable-forkjoin-with-nested-observables/
+Interacting efficiently with a RESTful service with Angular2 and RXJS (Part 2) - Restlet - API-First Success Made Easy | http://restlet.com/company/blog/2016/04/12/interacting-efficiently-with-a-restful-service-with-angular2-and-rxjs-part-2/
+DDDViteFait.pdf | file:///home/djung/Downloads/DDDViteFait.pdf
+hoppip GIF - Find & Share on GIPHY | https://giphy.com/gifs/hoppip-hoppip-smoking-arnold-schwarzenegger-yj5UdA4elp8Wc
+hoppip GIF - Find & Share on GIPHY | https://giphy.com/gifs/hoppip-cat-photoset-maudit-13dFVp6rscOly0
+addok/addok: Search engine for address. Only address. | https://github.com/addok/addok
+ddd vite fait - Tìm với Google | https://www.google.com.vn/search?q=ddd+vite+fait&oq=ddd+vite&aqs=chrome.1.69i57j0l2.16600j0j4&sourceid=chrome&ie=UTF-8

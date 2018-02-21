@@ -13,6 +13,17 @@ https://worditout.com/word-cloud/create
 
 
 
+mua online
+----------
+- wii balance board (ebay Germany -> ship service)
+- remote for android box
+-- chuot bay km950v voice (sendo, lazada)
+-- http://www.shipto.vn/lynec-c2-2-4g-6-axis-mini-wireless-keyboard-mouse-remote-with-infrared-remote-learning-air-control-for-pc-htpc-iptv-smart-tv-android-tv-box-media-player-updated-version_p1831013
+- reader for laptop 2.5in hdd
+- dance mat for wii (300k)
+
+
+
 
 arch doc
 
@@ -126,6 +137,253 @@ Cedex : Courrier d'Entreprise a Distribution EXceptionnelle
 
 
 
+
+Allowed HTML tags in OSNews submission
+
+```
+<p>  <b> <i> <u> <strike> <br> <blockquote> <code> <pre> <img> <li>
+<ul> <ol>
+```
+
+
+
+
+```
+The car is a computer you can sit inside of. The steering wheel and pedals might as well be keyboard keys.
+This is a warning about <a href="https://medium.com/the-atlantic/the-coming-software-apocalypse-4ffb43f3b288">the coming software apocalypse</a> with software complexity in cars, and ongoing attempts to address it.
+<blockquote>
+<p>Software is different. Just by editing the text in a file somewhere, the same hunk of silicon can become an autopilot or an inventory-control system. This flexibility is software’s miracle, and its curse. Because it can be changed cheaply, software is constantly changed; and because it’s unmoored from anything physical — a program that is a thousand times more complex than another takes up the same actual space — it tends to grow without bound. “The problem,” Leveson wrote in a book, “is that we are attempting to build systems that are beyond our ability to intellectually manage.”</p>
+[...]
+<p>Technological progress used to change the way the world looked — you could watch the roads getting paved; you could see the skylines rise. Today you can hardly tell when something is remade, because so often it is remade by code. When you press your foot down on your car’s accelerator, for instance, you’re no longer controlling anything directly; there’s no mechanical link from the pedal to the throttle. Instead, you’re issuing a command to a piece of software that decides how much air to give the engine. The car is a computer you can sit inside of. The steering wheel and pedals might as well be keyboard keys.</p>
+[...]
+<p>“We need to think about software differently,” Valasek told me. Car companies have long assembled their final product from parts made by hundreds of different suppliers. But where those parts were once purely mechanical, they now, as often as not, come with millions of lines of code. And while some of this code — for adaptive cruise control, for auto braking and lane assist — has indeed made cars safer (“The safety features on my Jeep have already saved me countless times,” says Miller), it has also created a level of complexity that is entirely new. And it has made possible a new kind of failure.</p>
+[...]
+<p>“There are lots of bugs in cars,” Gerard Berry, the French researcher behind Esterel, said in a talk. “It’s not like avionics — in avionics it’s taken very seriously. And it’s admitted that software is different from mechanics.” The automotive industry is perhaps among those that haven’t yet realized they are actually in the software business.</p>
+[...]
+<p>In the world of the self-driving car, software can’t be an afterthought. It can’t be built like today’s airline-reservation systems or 911 systems or stock-trading systems. Code will be put in charge of hundreds of millions of lives on the road and it has to work. That is no small task.</p>
+<blockquote>
+```
+
+
+It took a year for one guy to install Windows for Workgroups 3.11 on modern hardware in 2016 (as a side project).
+http://yeokhengmeng.com/2016/09/windows-for-workgroups-3-11-on-vintage-and-modern-hardware-in-2016/
+
+This is the guy who did “Make the 486 Great Again!” and was featured in OSNews in “The oldest x86 processor still supported by a modern Linux kernel?”.
+
+
+
+```
+A Science Project: Windows for Workgroups 3.11 on vintage and modern hardware in 2016
+
+<p>It's an interesting story about <a href="http://yeokhengmeng.com/2016/09/windows-for-workgroups-3-11-on-vintage-and-modern-hardware-in-2016/">playing with an obsolete operating system</a> from the guy who did <a href="http://www.osnews.com/story/30152/The_oldest_x86_processor_still_supported_by_a_modern_Linux_kernel_">“Make the 486 Great Again!”</a> with a bit of history</p>
+
+<blockquote>
+For a bit of trivial, even as late as recent as 2015, a French airport was also using a Win3.1 machine. The reason this fact came to light is because that machine crashed which took down the airport services. You can read more about it <a href="http://www.zdnet.com/article/a-23-year-old-windows-3-1-system-failure-crashed-paris-airport/">here</a>. Also, due to its low hardware requirements, Microsoft actually <a href="http://arstechnica.com/gadgets/2008/11/microsoft-puts-windows-3-11-for-workgroups-out-to-pasture/">sold licences to embedded systems manufacturers till 2008</a>!
+</blockquote>
+
+<p>... and a lot of tinkering
+
+<blockquote>
+<p>I got the comment from some people that there is simply no practical use for such a project. In fact, I think this is one of my rare projects that I have committed significant amounts of time (over almost half a year) and money that serves no relevant purpose.&nbsp;After writing this post, I’ll probably cease using such a legacy OS. However, going through all these has made me appreciate how far computing has come since the old days of DOS and Windows.</p>
+
+<p>What I was impressed with is the backward compatibility.&nbsp;Intel and Microsoft need to be applauded for their efforts in ensuring&nbsp;backward&nbsp;compatibility with old software/hardware.&nbsp;It is surprising things turned out as well as it did.</p>
+</blockquote>
+
+<p>... and an explanation for “A Science Project” from Raymond Chen.</p>
+
+<blockquote>
+<p>You may wonder why did I title this post “A Science Project”. This was <a href="https://blogs.msdn.microsoft.com/oldnewthing/20130319-00/?p=4913">coined in a blog post</a> by a Microsoft software engineer Raymond Chen to describe projects that fall into any of the following categories:</p>
+<ol>
+<li>A feature that is really cool and challenging from a technological standpoint but is overkill for the user-scenario.</li>
+<li>Requires hardware few people have.</li>
+<li>Trying to solve a problem that nobody really considers to be a problem. You’re doing it just for the Gee Whiz factor.</li>
+</ol>
+
+<p>I would like to believe this project hits the last point. Who still needs to use Windows 3.1 in such a modern manner?</p>
+
+<p>If you like this post, you can read about how I installed <a href="http://yeokhengmeng.com/2016/04/installing-windows-xp-on-a-modern-unsupported-haswell-system-in-2016/">Windows XP on a modern machine</a>.</p>
+</blockquote>
+```
+
+
+
+
+
+
+
+WordPress version   4.4.5
+BackWPup version    3.3.6 Get pro.
+PHP version 5.3.29 (64bit)
+MySQL version   5.5.56-cll-lve
+cURL version    7.54.0
+cURL SSL version    OpenSSL/1.0.2k
+WP-Cron url:    http://nscl.vn/wp-cron.php
+Server self connect:    Response Test O.K.
+Temp folder:    /home/dvanminh/public_html/nscl.vn/wp-content/uploads/backwpup-3bbe28-temp/
+Log folder: /home/dvanminh/public_html/nscl.vn/wp-content/uploads/backwpup-3bbe28-logs/
+Server  Apache
+Operating System    Linux
+PHP SAPI    cgi-fcgi
+Current PHP user    dvanminh
+Maximum execution time  30 seconds
+Alternative WP Cron Off
+Disabled WP Cron    Off
+CHMOD Dir   0755
+Server Time 11:26
+Blog Time   18:26
+Blog Timezone   
+Blog Time offset    7 hours
+Blog language   en-US
+MySQL Client encoding   utf8
+Blog charset    UTF-8
+PHP Memory limit    128M
+WP memory limit 40M
+WP maximum memory limit 256M
+Memory in use   46.50 MB
+Loaded PHP Extensions:  Core, PDO, Phar, Reflection, SPL, SQLite, SimpleXML, Zend Guard Loader, bcmath, bz2, calendar, cgi-fcgi, ctype, curl, date, dom, ereg, exif, filter, ftp, gd, gettext, gmp, hash, iconv, imap, ionCube Loader, json, libxml, mbstring, mcrypt, mhash, mysql, mysqli, openssl, pcntl, pcre, pdo_mysql, pdo_sqlite, posix, readline, session, shmop, soap, sockets, sqlite3, standard, suhosin, tokenizer, xml, xmlreader, xmlwriter, zip, zlib
+
+
+
+backwpup
+--------
+
+Exclude files/folders from backup   
+.tmp,.svn,.git,desktop.ini,.DS_Store,/node_modules/
+
+Folder to store backups in  
+uploads/backwpup-3bbe28-backups/
+
+
+Log file folder 
+uploads/backwpup-3bbe28-logs/
+
+You can use absolute or relative path! Relative path is relative to /home/dvanminh/public_html/nscl.vn/wp-content/
+
+
+
+
+
+https://wordpress.org/plugins/import-excel/
+
+https://wordpress.org/plugins/wp-excel-cms/
+
+https://wordpress.org/plugins/wp-ultimate-csv-importer/
+
+Adding Custom Fields data into WordPress with FREE WP Ultimate CSV Importer
+https://www.smackcoders.com/blog/adding-custom-fields-data-wordpress-free-wp-ultimate-csv-importer.html
+
+https://www.quora.com/What-are-the-best-plugins-to-import-Excel-or-CSV-files-into-WordPress
+
+
+
+
+10.190.29.102
+255.255.0.0
+10.190.0.1
+10.190.0.200
+8.8.8.8
+
+
+Hello [onshow.yourname],
+now is [onshow..now;frm='yyyy-mm-dd hh:nn:ss']
+[a.firstname;block=tbs:row] [a.name]  [a.number]  [a.score;ope=tbs:num] [a.score;ope=tbs:num]
+[onshow.x_num;ope=tbs:num]
+[onshow.x_bt;ope=tbs:bool]
+[onshow.x_dt;ope=tbs:date]
+
+
+
+f76uf17aFpAfbqU0eF
+
+
+
+Thông tin chung
+---------------
+
+Địa chỉ
+Số 7 Đường 3A, Khu Công Nghiệp Biên Hòa 2, Tp. Biên Hòa,Đồng Nai
+
+Liên hệ
+061-3833-733
+
+Năm thành lập
+1995
+
+Năm cập nhật
+2016
+
+Sản phẩm chính
+
+
+Lĩnh vực sản xuất / Kinh doanh
+Sản xuất sản phẩm thép
+
+Quy mô lao động
+200- 300 người
+
+Vốn
+>100 tỷ đồng
+
+
+Hệ thống quản lý
+---------------
+Công cụ tiêu chuẩn
+  Công cụ hỗ trợ
+    Biểu đồ kiểm soát, Biểu đồ nhân quả/Ishikawa, Biểu đồ Pareto/Biểu đồ tần số, Biểu đồ phân bố tần số (biểu đồ cột), Biểu đồ phân tán, Biểu đồ tán xạ, Biểu đồ tiến trình, BSC, Malcolm Baldrige
+  Công cụ phi tiêu chuẩn
+    5S, 7S, CRM, FMEA, JIT, Kaizen, KPI, MFCA, PDCA, Poka - Yoke, QCC, QFD, SPC, SS, TFP, TPM, TPrM, ZQC
+  Công cụ tiêu chuẩn
+    BRC, BRC/IOP, BSCI, CSM 2000, GMP, HACCP, IFS, ISO 13485, ISO 14001, ISO 15378, ISO 17021, ISO 17065, ISO 18001, ISO 22000, ISO 22716, ISO 26000, ISO 27001, ISO 29001, ISO 31000, ISO 3834, ISO 50001, ISO 9001, ISO/IEC 17021, ISO/IEC 17025, ISO/TS 16949, OHSAS 18001, PAS 99, SA 8000, Tiểu chuẩn khác, WRAP
+  Mô hình
+    6 sigma, BE, Lean, Lean 6 Sigma, Mô hình khác, PMS, TQM
+
+Hiện trạng
+cad=0|dxd=4,6,1,2,7|ccc=3,5
+
+Năm bắt đầu
+4:2011|6:2011|3:2011|1:2015|5:2011
+
+Thay đổi sau khi áp dụng
+nsg=0|nsk=4,6,3,5|nst=1|clg=0|clk=4,6,3,5|clt=1
+
+
+Công cụ cải tiến
+---------------
+Hiện trạng
+cad=0|dxd=1,2,3,4,5,6,7,8,9,10|ccc=0
+
+Năm bắt đầu
+
+
+Thay đổi sau khi áp dụng
+
+
+
+Mô hình quản lý
+---------------
+Hiện trạng
+cad=0|dxd=0|ccc=1
+
+Năm bắt đầu
+
+
+Thay đổi sau khi áp dụng
+nsg=0|nsk=0|nst=1|clg=0|clk=0|clt=1
+
+
+Hoạt động / Dự án
+-----------------
+2012: Dự án cải tiến thiết bị
+2012: Dự án đổi mới công nghệ
+
+
+
+
+
+
+
+
+
 #header-tp #logo {
     margin-top: 12px; /* 6px */
 }
@@ -205,6 +463,55 @@ CI for NEM app
 - Source code is host in Nordnet git server (http://stash.dvpt.nordnet.fr:7990)
 - Bamboo is configured to build/test/deploy from git server to staging/preprod/prod environments.
   - Tasks are managed at http://bamboo.dvpt.nordnet.fr:8085/browse/NEMAP
+
+
+
+
+
+
+
+
+anonymous survey
+-----------------------
+
+## methods:
+- users can choose from a box of token (privately) or a list of tokens in a white board (publicly)
+  - no conflict
+  - difficult to miss user or take survey twice
+- users can view the list of tokens (in a office white board, or a intranet message, or a company-wide email) and type/copy into survey
+  - potential conflict (late users have to retry many times)
+  - a user can take survey twice or more
+
+## implementation notes:
+- big haystack: there must be enough tokens (100?) to prevent identification of a individual user
+- personal info: users should be warned about disclosing personal info
+- device info: device info should be minimized (such as: sending via a public or 3rd-party service, or combine results into a file in a shared folder)
+- randomness: token maybe generated by user in a 3rd-party service (such as: random.org) and collected into a common box for everyone to pick a token
+- statistics: survey statistics should only be revealed when enough (90% to 100%) survey results are received.
+
+
+## other solutions:
+- anonize https://anonize.org/ https://www.wired.com/2015/09/new-crypto-tool-makes-anonymous-surveys-truly-anonymous/
+- anonymous voting
+
+## concerns:
+
+* Concerning anonymity please keep in mind 2 very general facts that are not specific to ADoodle.org. 1) Your active participation anonymity is lost if all the voters vote (in this case all the participant will know that you have voted) or if no one votes (all the participants will know that you have not voted). 2) Your vote anonymity is also lost if all the voters vote and vote for the same choice.
+
+
+
+Create a different survey for each department, even if the surveys have the same questions.
+
+Everyone that answers to Survey X is from Department A.
+Everyone that answers to Survey Y is from Department B.
+Then, you just need to mash up the results and you're done!
+
+That alone is enough to do a lot of information gathering, without any special tricks.
+
+Brazillian banks did something similar, on paper surveys - each manager was to distribute to his subordinates copies of the survey. However, each manager got his copies on paper of a different color - so everyone that answered the yellow copy was from RH, everyone that answered the blue copy was from Finances, everyone that answered the pink copy was from Sales, and so on. Even if you didn't ask for the employee department, name or registry number, you knew from where he was and in what department he worked.
+
+
+
 
 
 
